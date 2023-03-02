@@ -4532,7 +4532,7 @@ U+2212 MINUS SIGN
 |       |
 |       |
 +       |
-U+2500      ─       BOX DRAWINGS LIGHT HORIZONTAL (FORMS LIGHT HORIZONTAL)
+U+2500  BOX DRAWINGS LIGHT HORIZONTAL
 |       |
 |       |
 |       |
@@ -4546,8 +4546,7 @@ U+2500      ─       BOX DRAWINGS LIGHT HORIZONTAL (FORMS LIGHT HORIZONTAL)
 +       |
 |       |
 |       |
-U+2501      ━       BOX DRAWINGS HEAVY HORIZONTAL (FORMS HEAVY HORIZONTAL)
-|       |
+U+2501  BOX DRAWINGS HEAVY HORIZONTAL
 |       |
 |       |
 |       |
@@ -4556,11 +4555,12 @@ U+2501      ━       BOX DRAWINGS HEAVY HORIZONTAL (FORMS HEAVY HORIZONTAL)
 |#######|
 |#######|
 |#######|
+|       |
 |       |
 +       |
 |       |
 |       |
-U+2502      │       BOX DRAWINGS LIGHT VERTICAL (FORMS LIGHT VERTICAL)
+U+2502  BOX DRAWINGS LIGHT VERTICAL
 |   #   |
 |   #   |
 |   #   |
@@ -4574,7 +4574,7 @@ U+2502      │       BOX DRAWINGS LIGHT VERTICAL (FORMS LIGHT VERTICAL)
 +   #   |
 |   #   |
 |   #   |
-U+2503      ┃       BOX DRAWINGS HEAVY VERTICAL (FORMS HEAVY VERTICAL)
+U+2503  BOX DRAWINGS HEAVY VERTICAL
 |  ###  |
 |  ###  |
 |  ###  |
@@ -4700,7 +4700,7 @@ U+250B      ┋       BOX DRAWINGS HEAVY QUADRUPLE DASH VERTICAL (FORMS HEAVY QU
 +  ###  |
 |  ###  |
 |       |
-U+250C      ┌       BOX DRAWINGS LIGHT DOWN AND RIGHT (FORMS LIGHT DOWN AND RIGHT)
+U+250C  BOX DRAWINGS LIGHT DOWN AND RIGHT
 |       |
 |       |
 |       |
@@ -4714,7 +4714,7 @@ U+250C      ┌       BOX DRAWINGS LIGHT DOWN AND RIGHT (FORMS LIGHT DOWN AND RI
 +   #   |
 |   #   |
 |   #   |
-U+250D      ┍       BOX DRAWINGS DOWN LIGHT AND RIGHT HEAVY (FORMS DOWN LIGHT AND RIGHT HEAVY)
+U+250D  BOX DRAWINGS DOWN LIGHT AND RIGHT HEAVY
 |       |
 |       |
 |       |
@@ -4728,7 +4728,7 @@ U+250D      ┍       BOX DRAWINGS DOWN LIGHT AND RIGHT HEAVY (FORMS DOWN LIGHT 
 +   #   |
 |   #   |
 |   #   |
-U+250E      ┎       BOX DRAWINGS DOWN HEAVY AND RIGHT LIGHT (FORMS DOWN HEAVY AND RIGHT LIGHT)
+U+250E  BOX DRAWINGS DOWN HEAVY AND RIGHT LIGHT
 |       |
 |       |
 |       |
@@ -4742,7 +4742,7 @@ U+250E      ┎       BOX DRAWINGS DOWN HEAVY AND RIGHT LIGHT (FORMS DOWN HEAVY 
 +  ###  |
 |  ###  |
 |  ###  |
-U+250F      ┏       BOX DRAWINGS HEAVY DOWN AND RIGHT (FORMS HEAVY DOWN AND RIGHT)
+U+250F  BOX DRAWINGS HEAVY DOWN AND RIGHT
 |       |
 |       |
 |       |
@@ -4756,7 +4756,7 @@ U+250F      ┏       BOX DRAWINGS HEAVY DOWN AND RIGHT (FORMS HEAVY DOWN AND RI
 +  ###  |
 |  ###  |
 |  ###  |
-U+2510      ┐       BOX DRAWINGS LIGHT DOWN AND LEFT (FORMS LIGHT DOWN AND LEFT)
+U+2510  BOX DRAWINGS LIGHT DOWN AND LEFT
 |       |
 |       |
 |       |
@@ -4770,1547 +4770,1547 @@ U+2510      ┐       BOX DRAWINGS LIGHT DOWN AND LEFT (FORMS LIGHT DOWN AND LEF
 +   #   |
 |   #   |
 |   #   |
-U+2511      ┑       BOX DRAWINGS DOWN LIGHT AND LEFT HEAVY (FORMS DOWN LIGHT AND LEFT HEAVY)
+U+2511  BOX DRAWINGS DOWN LIGHT AND LEFT HEAVY
 |       |
 |       |
 |       |
 |       |
 |       |
+|####   |
+|####   |
+|####   |
+|   #   |
+|   #   |
++   #   |
+|   #   |
+|   #   |
+U+2512  BOX DRAWINGS DOWN HEAVY AND LEFT LIGHT
 |       |
 |       |
 |       |
 |       |
 |       |
-+       |
-|       |
-|       |
-U+2512      ┒       BOX DRAWINGS DOWN HEAVY AND LEFT LIGHT (FORMS DOWN HEAVY AND LEFT LIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2513      ┓       BOX DRAWINGS HEAVY DOWN AND LEFT (FORMS HEAVY DOWN AND LEFT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2514      └       BOX DRAWINGS LIGHT UP AND RIGHT (FORMS LIGHT UP AND RIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2515      ┕       BOX DRAWINGS UP LIGHT AND RIGHT HEAVY (FORMS UP LIGHT AND RIGHT HEAVY)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2516      ┖       BOX DRAWINGS UP HEAVY AND RIGHT LIGHT (FORMS UP HEAVY AND RIGHT LIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2517      ┗       BOX DRAWINGS HEAVY UP AND RIGHT (FORMS HEAVY UP AND RIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2518      ┘       BOX DRAWINGS LIGHT UP AND LEFT (FORMS LIGHT UP AND LEFT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2519      ┙       BOX DRAWINGS UP LIGHT AND LEFT HEAVY (FORMS UP LIGHT AND LEFT HEAVY)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+251A      ┚       BOX DRAWINGS UP HEAVY AND LEFT LIGHT (FORMS UP HEAVY AND LEFT LIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+251B      ┛       BOX DRAWINGS HEAVY UP AND LEFT (FORMS HEAVY UP AND LEFT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+251C      ├       BOX DRAWINGS LIGHT VERTICAL AND RIGHT (FORMS LIGHT VERTICAL AND RIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+251D      ┝       BOX DRAWINGS VERTICAL LIGHT AND RIGHT HEAVY (FORMS VERTICAL LIGHT AND RIGHT HEAVY)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+251E      ┞       BOX DRAWINGS UP HEAVY AND RIGHT DOWN LIGHT (FORMS UP HEAVY AND RIGHT DOWN LIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+251F      ┟       BOX DRAWINGS DOWN HEAVY AND RIGHT UP LIGHT (FORMS DOWN HEAVY AND RIGHT UP LIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2520      ┠       BOX DRAWINGS VERTICAL HEAVY AND RIGHT LIGHT (FORMS VERTICAL HEAVY AND RIGHT LIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2521      ┡       BOX DRAWINGS DOWN LIGHT AND RIGHT UP HEAVY (FORMS DOWN LIGHT AND RIGHT UP HEAVY)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2522      ┢       BOX DRAWINGS UP LIGHT AND RIGHT DOWN HEAVY (FORMS UP LIGHT AND RIGHT DOWN HEAVY)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2523      ┣       BOX DRAWINGS HEAVY VERTICAL AND RIGHT (FORMS HEAVY VERTICAL AND RIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2524      ┤       BOX DRAWINGS LIGHT VERTICAL AND LEFT (FORMS LIGHT VERTICAL AND LEFT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2525      ┥       BOX DRAWINGS VERTICAL LIGHT AND LEFT HEAVY (FORMS VERTICAL LIGHT AND LEFT HEAVY)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2526      ┦       BOX DRAWINGS UP HEAVY AND LEFT DOWN LIGHT (FORMS UP HEAVY AND LEFT DOWN LIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2527      ┧       BOX DRAWINGS DOWN HEAVY AND LEFT UP LIGHT (FORMS DOWN HEAVY AND LEFT UP LIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2528      ┨       BOX DRAWINGS VERTICAL HEAVY AND LEFT LIGHT (FORMS VERTICAL HEAVY AND LEFT LIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2529      ┩       BOX DRAWINGS DOWN LIGHT AND LEFT UP HEAVY (FORMS DOWN LIGHT AND LEFT UP HEAVY)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+252A      ┪       BOX DRAWINGS UP LIGHT AND LEFT DOWN HEAVY (FORMS UP LIGHT AND LEFT DOWN HEAVY)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+252B      ┫       BOX DRAWINGS HEAVY VERTICAL AND LEFT (FORMS HEAVY VERTICAL AND LEFT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+252C      ┬       BOX DRAWINGS LIGHT DOWN AND HORIZONTAL (FORMS LIGHT DOWN AND HORIZONTAL)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+252D      ┭       BOX DRAWINGS LEFT HEAVY AND RIGHT DOWN LIGHT (FORMS LEFT HEAVY AND RIGHT DOWN LIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+252E      ┮       BOX DRAWINGS RIGHT HEAVY AND LEFT DOWN LIGHT (FORMS RIGHT HEAVY AND LEFT DOWN LIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+252F      ┯       BOX DRAWINGS DOWN LIGHT AND HORIZONTAL HEAVY (FORMS DOWN LIGHT AND HORIZONTAL HEAVY)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2530      ┰       BOX DRAWINGS DOWN HEAVY AND HORIZONTAL LIGHT (FORMS DOWN HEAVY AND HORIZONTAL LIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2531      ┱       BOX DRAWINGS RIGHT LIGHT AND LEFT DOWN HEAVY (FORMS RIGHT LIGHT AND LEFT DOWN HEAVY)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2532      ┲       BOX DRAWINGS LEFT LIGHT AND RIGHT DOWN HEAVY (FORMS LEFT LIGHT AND RIGHT DOWN HEAVY)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2533      ┳       BOX DRAWINGS HEAVY DOWN AND HORIZONTAL (FORMS HEAVY DOWN AND HORIZONTAL)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2534      ┴       BOX DRAWINGS LIGHT UP AND HORIZONTAL (FORMS LIGHT UP AND HORIZONTAL)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2535      ┵       BOX DRAWINGS LEFT HEAVY AND RIGHT UP LIGHT (FORMS LEFT HEAVY AND RIGHT UP LIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2536      ┶       BOX DRAWINGS RIGHT HEAVY AND LEFT UP LIGHT (FORMS RIGHT HEAVY AND LEFT UP LIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2537      ┷       BOX DRAWINGS UP LIGHT AND HORIZONTAL HEAVY (FORMS UP LIGHT AND HORIZONTAL HEAVY)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2538      ┸       BOX DRAWINGS UP HEAVY AND HORIZONTAL LIGHT (FORMS UP HEAVY AND HORIZONTAL LIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2539      ┹       BOX DRAWINGS RIGHT LIGHT AND LEFT UP HEAVY (FORMS RIGHT LIGHT AND LEFT UP HEAVY)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+253A      ┺       BOX DRAWINGS LEFT LIGHT AND RIGHT UP HEAVY (FORMS LEFT LIGHT AND RIGHT UP HEAVY)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+253B      ┻       BOX DRAWINGS HEAVY UP AND HORIZONTAL (FORMS HEAVY UP AND HORIZONTAL)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+253C      ┼       BOX DRAWINGS LIGHT VERTICAL AND HORIZONTAL (FORMS LIGHT VERTICAL AND HORIZONTAL)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+253D      ┽       BOX DRAWINGS LEFT HEAVY AND RIGHT VERTICAL LIGHT (FORMS LEFT HEAVY AND RIGHT VERTICAL LIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+253E      ┾       BOX DRAWINGS RIGHT HEAVY AND LEFT VERTICAL LIGHT (FORMS RIGHT HEAVY AND LEFT VERTICAL LIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+253F      ┿       BOX DRAWINGS VERTICAL LIGHT AND HORIZONTAL HEAVY (FORMS VERTICAL LIGHT AND HORIZONTAL HEAVY)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2540      ╀       BOX DRAWINGS UP HEAVY AND DOWN HORIZONTAL LIGHT (FORMS UP HEAVY AND DOWN HORIZONTAL LIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2541      ╁       BOX DRAWINGS DOWN HEAVY AND UP HORIZONTAL LIGHT (FORMS DOWN HEAVY AND UP HORIZONTAL LIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2542      ╂       BOX DRAWINGS VERTICAL HEAVY AND HORIZONTAL LIGHT (FORMS VERTICAL HEAVY AND HORIZONTAL LIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2543      ╃       BOX DRAWINGS LEFT UP HEAVY AND RIGHT DOWN LIGHT (FORMS LEFT UP HEAVY AND RIGHT DOWN LIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2544      ╄       BOX DRAWINGS RIGHT UP HEAVY AND LEFT DOWN LIGHT (FORMS RIGHT UP HEAVY AND LEFT DOWN LIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2545      ╅       BOX DRAWINGS LEFT DOWN HEAVY AND RIGHT UP LIGHT (FORMS LEFT DOWN HEAVY AND RIGHT UP LIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2546      ╆       BOX DRAWINGS RIGHT DOWN HEAVY AND LEFT UP LIGHT (FORMS RIGHT DOWN HEAVY AND LEFT UP LIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2547      ╇       BOX DRAWINGS DOWN LIGHT AND UP HORIZONTAL HEAVY (FORMS DOWN LIGHT AND UP HORIZONTAL HEAVY)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2548      ╈       BOX DRAWINGS UP LIGHT AND DOWN HORIZONTAL HEAVY (FORMS UP LIGHT AND DOWN HORIZONTAL HEAVY)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2549      ╉       BOX DRAWINGS RIGHT LIGHT AND LEFT VERTICAL HEAVY (FORMS RIGHT LIGHT AND LEFT VERTICAL HEAVY)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+254A      ╊       BOX DRAWINGS LEFT LIGHT AND RIGHT VERTICAL HEAVY (FORMS LEFT LIGHT AND RIGHT VERTICAL HEAVY)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+254B      ╋       BOX DRAWINGS HEAVY VERTICAL AND HORIZONTAL (FORMS HEAVY VERTICAL AND HORIZONTAL)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+254C      ╌       BOX DRAWINGS LIGHT DOUBLE DASH HORIZONTAL (FORMS LIGHT DOUBLE DASH HORIZONTAL)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+254D      ╍       BOX DRAWINGS HEAVY DOUBLE DASH HORIZONTAL (FORMS HEAVY DOUBLE DASH HORIZONTAL)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+254E      ╎       BOX DRAWINGS LIGHT DOUBLE DASH VERTICAL (FORMS LIGHT DOUBLE DASH VERTICAL)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+254F      ╏       BOX DRAWINGS HEAVY DOUBLE DASH VERTICAL (FORMS HEAVY DOUBLE DASH VERTICAL)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2550      ═       BOX DRAWINGS DOUBLE HORIZONTAL (FORMS DOUBLE HORIZONTAL)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2551      ║       BOX DRAWINGS DOUBLE VERTICAL (FORMS DOUBLE VERTICAL)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2552      ╒       BOX DRAWINGS DOWN SINGLE AND RIGHT DOUBLE (FORMS DOWN SINGLE AND RIGHT DOUBLE)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2553      ╓       BOX DRAWINGS DOWN DOUBLE AND RIGHT SINGLE (FORMS DOWN DOUBLE AND RIGHT SINGLE)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2554      ╔       BOX DRAWINGS DOUBLE DOWN AND RIGHT (FORMS DOUBLE DOWN AND RIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2555      ╕       BOX DRAWINGS DOWN SINGLE AND LEFT DOUBLE (FORMS DOWN SINGLE AND LEFT DOUBLE)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2556      ╖       BOX DRAWINGS DOWN DOUBLE AND LEFT SINGLE (FORMS DOWN DOUBLE AND LEFT SINGLE)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2557      ╗       BOX DRAWINGS DOUBLE DOWN AND LEFT (FORMS DOUBLE DOWN AND LEFT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2558      ╘       BOX DRAWINGS UP SINGLE AND RIGHT DOUBLE (FORMS UP SINGLE AND RIGHT DOUBLE)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2559      ╙       BOX DRAWINGS UP DOUBLE AND RIGHT SINGLE (FORMS UP DOUBLE AND RIGHT SINGLE)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+255A      ╚       BOX DRAWINGS DOUBLE UP AND RIGHT (FORMS DOUBLE UP AND RIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+255B      ╛       BOX DRAWINGS UP SINGLE AND LEFT DOUBLE (FORMS UP SINGLE AND LEFT DOUBLE)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+255C      ╜       BOX DRAWINGS UP DOUBLE AND LEFT SINGLE (FORMS UP DOUBLE AND LEFT SINGLE)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+255D      ╝       BOX DRAWINGS DOUBLE UP AND LEFT (FORMS DOUBLE UP AND LEFT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+255E      ╞       BOX DRAWINGS VERTICAL SINGLE AND RIGHT DOUBLE (FORMS VERTICAL SINGLE AND RIGHT DOUBLE)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+255F      ╟       BOX DRAWINGS VERTICAL DOUBLE AND RIGHT SINGLE (FORMS VERTICAL DOUBLE AND RIGHT SINGLE)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2560      ╠       BOX DRAWINGS DOUBLE VERTICAL AND RIGHT (FORMS DOUBLE VERTICAL AND RIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2561      ╡       BOX DRAWINGS VERTICAL SINGLE AND LEFT DOUBLE (FORMS VERTICAL SINGLE AND LEFT DOUBLE)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2562      ╢       BOX DRAWINGS VERTICAL DOUBLE AND LEFT SINGLE (FORMS VERTICAL DOUBLE AND LEFT SINGLE)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2563      ╣       BOX DRAWINGS DOUBLE VERTICAL AND LEFT (FORMS DOUBLE VERTICAL AND LEFT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2564      ╤       BOX DRAWINGS DOWN SINGLE AND HORIZONTAL DOUBLE (FORMS DOWN SINGLE AND HORIZONTAL DOUBLE)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2565      ╥       BOX DRAWINGS DOWN DOUBLE AND HORIZONTAL SINGLE (FORMS DOWN DOUBLE AND HORIZONTAL SINGLE)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2566      ╦       BOX DRAWINGS DOUBLE DOWN AND HORIZONTAL (FORMS DOUBLE DOWN AND HORIZONTAL)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2567      ╧       BOX DRAWINGS UP SINGLE AND HORIZONTAL DOUBLE (FORMS UP SINGLE AND HORIZONTAL DOUBLE)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2568      ╨       BOX DRAWINGS UP DOUBLE AND HORIZONTAL SINGLE (FORMS UP DOUBLE AND HORIZONTAL SINGLE)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2569      ╩       BOX DRAWINGS DOUBLE UP AND HORIZONTAL (FORMS DOUBLE UP AND HORIZONTAL)
-|       |
 |       |
+|#####  |
+|  ###  |
+|  ###  |
+|  ###  |
++  ###  |
+|  ###  |
+|  ###  |
+U+2513  BOX DRAWINGS HEAVY DOWN AND LEFT
 |       |
 |       |
 |       |
 |       |
 |       |
+|#####  |
+|#####  |
+|#####  |
+|  ###  |
+|  ###  |
++  ###  |
+|  ###  |
+|  ###  |
+U+2514  BOX DRAWINGS LIGHT UP AND RIGHT
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   ####|
 |       |
 |       |
 |       |
 +       |
 |       |
 |       |
-U+256A      ╪       BOX DRAWINGS VERTICAL SINGLE AND HORIZONTAL DOUBLE (FORMS VERTICAL SINGLE AND HORIZONTAL DOUBLE)
+U+2515  BOX DRAWINGS UP LIGHT AND RIGHT HEAVY
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   ####|
+|   ####|
+|   ####|
 |       |
 |       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+256B      ╫       BOX DRAWINGS VERTICAL DOUBLE AND HORIZONTAL SINGLE (FORMS VERTICAL DOUBLE AND HORIZONTAL SINGLE)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+256C      ╬       BOX DRAWINGS DOUBLE VERTICAL AND HORIZONTAL (FORMS DOUBLE VERTICAL AND HORIZONTAL)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+256D      ╭       BOX DRAWINGS LIGHT ARC DOWN AND RIGHT (FORMS LIGHT ARC DOWN AND RIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+256E      ╮       BOX DRAWINGS LIGHT ARC DOWN AND LEFT (FORMS LIGHT ARC DOWN AND LEFT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+256F      ╯       BOX DRAWINGS LIGHT ARC UP AND LEFT (FORMS LIGHT ARC UP AND LEFT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2570      ╰       BOX DRAWINGS LIGHT ARC UP AND RIGHT (FORMS LIGHT ARC UP AND RIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2571      ╱       BOX DRAWINGS LIGHT DIAGONAL UPPER RIGHT TO LOWER LEFT (FORMS LIGHT DIAGONAL UPPER RIGHT TO LOWER LEFT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2572      ╲       BOX DRAWINGS LIGHT DIAGONAL UPPER LEFT TO LOWER RIGHT (FORMS LIGHT DIAGONAL UPPER LEFT TO LOWER RIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2573      ╳       BOX DRAWINGS LIGHT DIAGONAL CROSS (FORMS LIGHT DIAGONAL CROSS)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2574      ╴       BOX DRAWINGS LIGHT LEFT (FORMS LIGHT LEFT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2575      ╵       BOX DRAWINGS LIGHT UP (FORMS LIGHT UP)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2576      ╶       BOX DRAWINGS LIGHT RIGHT (FORMS LIGHT RIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2577      ╷       BOX DRAWINGS LIGHT DOWN (FORMS LIGHT DOWN)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2578      ╸       BOX DRAWINGS HEAVY LEFT (FORMS HEAVY LEFT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+2579      ╹       BOX DRAWINGS HEAVY UP (FORMS HEAVY UP)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+257A      ╺       BOX DRAWINGS HEAVY RIGHT (FORMS HEAVY RIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+257B      ╻       BOX DRAWINGS HEAVY DOWN (FORMS HEAVY DOWN)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-+       |
-|       |
-|       |
-U+257C      ╼       BOX DRAWINGS LIGHT LEFT AND HEAVY RIGHT (FORMS LIGHT LEFT AND HEAVY RIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
 +       |
-|       |
-|       |
-U+257D      ╽       BOX DRAWINGS LIGHT UP AND HEAVY DOWN (FORMS LIGHT UP AND HEAVY DOWN)
-|       |
-|       |
-|       |
-|       |
 |       |
 |       |
+U+2516  BOX DRAWINGS UP HEAVY AND RIGHT LIGHT
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  #####|
 |       |
 |       |
 |       |
-|       |
 +       |
-|       |
-|       |
-U+257E      ╾       BOX DRAWINGS HEAVY LEFT AND LIGHT RIGHT (FORMS HEAVY LEFT AND LIGHT RIGHT)
-|       |
-|       |
-|       |
-|       |
-|       |
-|       |
 |       |
 |       |
+U+2517  BOX DRAWINGS HEAVY UP AND RIGHT
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  #####|
+|  #####|
+|  #####|
 |       |
 |       |
 +       |
 |       |
 |       |
-U+257F      ╿       BOX DRAWINGS HEAVY UP AND LIGHT DOWN (FORMS HEAVY UP AND LIGHT DOWN)
+U+2518  BOX DRAWINGS LIGHT UP AND LEFT
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|####   |
+|       |
+|       |
+|       |
++       |
+|       |
+|       |
+U+2519  BOX DRAWINGS UP LIGHT AND LEFT HEAVY
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|####   |
+|####   |
+|####   |
+|       |
+|       |
++       |
+|       |
+|       |
+U+251A  BOX DRAWINGS UP HEAVY AND LEFT LIGHT
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|#####  |
+|       |
+|       |
+|       |
++       |
+|       |
+|       |
+U+251B  BOX DRAWINGS HEAVY UP AND LEFT
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|#####  |
+|#####  |
+|#####  |
+|       |
+|       |
++       |
+|       |
+|       |
+U+251C  BOX DRAWINGS LIGHT VERTICAL AND RIGHT
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   ####|
+|   #   |
+|   #   |
+|   #   |
++   #   |
+|   #   |
+|   #   |
+U+251D  BOX DRAWINGS VERTICAL LIGHT AND RIGHT HEAVY
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   ####|
+|   ####|
+|   ####|
+|   #   |
+|   #   |
++   #   |
+|   #   |
+|   #   |
+U+251E  BOX DRAWINGS UP HEAVY AND RIGHT DOWN LIGHT
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  #####|
+|   #   |
+|   #   |
+|   #   |
++   #   |
+|   #   |
+|   #   |
+U+251F  BOX DRAWINGS DOWN HEAVY AND RIGHT UP LIGHT
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|  #####|
+|  ###  |
+|  ###  |
+|  ###  |
++  ###  |
+|  ###  |
+|  ###  |
+U+2520  BOX DRAWINGS VERTICAL HEAVY AND RIGHT LIGHT
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  #####|
+|  ###  |
+|  ###  |
+|  ###  |
++  ###  |
+|  ###  |
+|  ###  |
+U+2521  BOX DRAWINGS DOWN LIGHT AND RIGHT UP HEAVY
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  #####|
+|  #####|
+|  #####|
+|   #   |
+|   #   |
++   #   |
+|   #   |
+|   #   |
+U+2522  BOX DRAWINGS UP LIGHT AND RIGHT DOWN HEAVY
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|  #####|
+|  #####|
+|  #####|
+|  ###  |
+|  ###  |
++  ###  |
+|  ###  |
+|  ###  |
+U+2523  BOX DRAWINGS HEAVY VERTICAL AND RIGHT
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  #####|
+|  #####|
+|  #####|
+|  ###  |
+|  ###  |
++  ###  |
+|  ###  |
+|  ###  |
+U+2524  BOX DRAWINGS LIGHT VERTICAL AND LEFT
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|####   |
+|   #   |
+|   #   |
+|   #   |
++   #   |
+|   #   |
+|   #   |
+U+2525  BOX DRAWINGS VERTICAL LIGHT AND LEFT HEAVY
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|####   |
+|####   |
+|####   |
+|   #   |
+|   #   |
++   #   |
+|   #   |
+|   #   |
+U+2526  BOX DRAWINGS UP HEAVY AND LEFT DOWN LIGHT
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|#####  |
+|   #   |
+|   #   |
+|   #   |
++   #   |
+|   #   |
+|   #   |
+U+2527  BOX DRAWINGS DOWN HEAVY AND LEFT UP LIGHT
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|#####  |
+|  ###  |
+|  ###  |
+|  ###  |
++  ###  |
+|  ###  |
+|  ###  |
+U+2528  BOX DRAWINGS VERTICAL HEAVY AND LEFT LIGHT
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|#####  |
+|  ###  |
+|  ###  |
+|  ###  |
++  ###  |
+|  ###  |
+|  ###  |
+U+2529  BOX DRAWINGS DOWN LIGHT AND LEFT UP HEAVY
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|#####  |
+|#####  |
+|#####  |
+|   #   |
+|   #   |
++   #   |
+|   #   |
+|   #   |
+U+252A  BOX DRAWINGS UP LIGHT AND LEFT DOWN HEAVY
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|#####  |
+|#####  |
+|#####  |
+|  ###  |
+|  ###  |
++  ###  |
+|  ###  |
+|  ###  |
+U+252B  BOX DRAWINGS HEAVY VERTICAL AND LEFT
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|#####  |
+|#####  |
+|#####  |
+|  ###  |
+|  ###  |
++  ###  |
+|  ###  |
+|  ###  |
+U+252C  BOX DRAWINGS LIGHT DOWN AND HORIZONTAL
+|       |
+|       |
+|       |
+|       |
+|       |
+|       |
+|#######|
+|   #   |
+|   #   |
+|   #   |
++   #   |
+|   #   |
+|   #   |
+U+252D  BOX DRAWINGS LEFT HEAVY AND RIGHT DOWN LIGHT
+|       |
+|       |
+|       |
+|       |
+|       |
+|####   |
+|#######|
+|####   |
+|   #   |
+|   #   |
++   #   |
+|   #   |
+|   #   |
+U+252E  BOX DRAWINGS RIGHT HEAVY AND LEFT DOWN LIGHT
+|       |
+|       |
+|       |
+|       |
+|       |
+|   ####|
+|#######|
+|   ####|
+|   #   |
+|   #   |
++   #   |
+|   #   |
+|   #   |
+U+252F  BOX DRAWINGS DOWN LIGHT AND HORIZONTAL HEAVY
+|       |
+|       |
+|       |
+|       |
+|       |
+|#######|
+|#######|
+|#######|
+|   #   |
+|   #   |
++   #   |
+|   #   |
+|   #   |
+U+2530  BOX DRAWINGS DOWN HEAVY AND HORIZONTAL LIGHT
+|       |
+|       |
+|       |
+|       |
+|       |
+|       |
+|#######|
+|  ###  |
+|  ###  |
+|  ###  |
++  ###  |
+|  ###  |
+|  ###  |
+U+2531  BOX DRAWINGS RIGHT LIGHT AND LEFT DOWN HEAVY
+|       |
+|       |
+|       |
+|       |
+|       |
+|#####  |
+|#######|
+|#####  |
+|  ###  |
+|  ###  |
++  ###  |
+|  ###  |
+|  ###  |
+U+2532  BOX DRAWINGS LEFT LIGHT AND RIGHT DOWN HEAVY
+|       |
+|       |
+|       |
+|       |
+|       |
+|  #####|
+|#######|
+|  #####|
+|  ###  |
+|  ###  |
++  ###  |
+|  ###  |
+|  ###  |
+U+2533  BOX DRAWINGS HEAVY DOWN AND HORIZONTAL
+|       |
+|       |
+|       |
+|       |
+|       |
+|#######|
+|#######|
+|#######|
+|  ###  |
+|  ###  |
++  ###  |
+|  ###  |
+|  ###  |
+U+2534  BOX DRAWINGS LIGHT UP AND HORIZONTAL
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|#######|
+|       |
+|       |
+|       |
++       |
+|       |
+|       |
+U+2535  BOX DRAWINGS LEFT HEAVY AND RIGHT UP LIGHT
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|####   |
+|#######|
+|####   |
+|       |
+|       |
++       |
+|       |
+|       |
+U+2536  BOX DRAWINGS RIGHT HEAVY AND LEFT UP LIGHT
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   ####|
+|#######|
+|   ####|
+|       |
+|       |
++       |
+|       |
+|       |
+U+2537  BOX DRAWINGS UP LIGHT AND HORIZONTAL HEAVY
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|#######|
+|#######|
+|#######|
+|       |
+|       |
++       |
+|       |
+|       |
+U+2538  BOX DRAWINGS UP HEAVY AND HORIZONTAL LIGHT
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|#######|
+|       |
+|       |
+|       |
++       |
+|       |
+|       |
+U+2539  BOX DRAWINGS RIGHT LIGHT AND LEFT UP HEAVY
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|#####  |
+|#######|
+|#####  |
+|       |
+|       |
++       |
+|       |
+|       |
+U+253A  BOX DRAWINGS LEFT LIGHT AND RIGHT UP HEAVY
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  #####|
+|#######|
+|  #####|
+|       |
+|       |
++       |
+|       |
+|       |
+U+253B  BOX DRAWINGS HEAVY UP AND HORIZONTAL
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|#######|
+|#######|
+|#######|
+|       |
+|       |
++       |
+|       |
+|       |
+U+253C  BOX DRAWINGS LIGHT VERTICAL AND HORIZONTAL
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|#######|
+|   #   |
+|   #   |
+|   #   |
++   #   |
+|   #   |
+|   #   |
+U+253D  BOX DRAWINGS LEFT HEAVY AND RIGHT VERTICAL LIGHT
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|####   |
+|#######|
+|####   |
+|   #   |
+|   #   |
++   #   |
+|   #   |
+|   #   |
+U+253E  BOX DRAWINGS RIGHT HEAVY AND LEFT VERTICAL LIGHT
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   ####|
+|#######|
+|   ####|
+|   #   |
+|   #   |
++   #   |
+|   #   |
+|   #   |
+U+253F  BOX DRAWINGS VERTICAL LIGHT AND HORIZONTAL HEAVY
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|#######|
+|#######|
+|#######|
+|   #   |
+|   #   |
++   #   |
+|   #   |
+|   #   |
+U+2540  BOX DRAWINGS UP HEAVY AND DOWN HORIZONTAL LIGHT
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|#######|
+|   #   |
+|   #   |
+|   #   |
++   #   |
+|   #   |
+|   #   |
+U+2541  BOX DRAWINGS DOWN HEAVY AND UP HORIZONTAL LIGHT
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|#######|
+|  ###  |
+|  ###  |
+|  ###  |
++  ###  |
+|  ###  |
+|  ###  |
+U+2542  BOX DRAWINGS VERTICAL HEAVY AND HORIZONTAL LIGHT
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|#######|
+|  ###  |
+|  ###  |
+|  ###  |
++  ###  |
+|  ###  |
+|  ###  |
+U+2543  BOX DRAWINGS LEFT UP HEAVY AND RIGHT DOWN LIGHT
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|#####  |
+|#######|
+|#####  |
+|   #   |
+|   #   |
++   #   |
+|   #   |
+|   #   |
+U+2544  BOX DRAWINGS RIGHT UP HEAVY AND LEFT DOWN LIGHT
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  #####|
+|#######|
+|  #####|
+|   #   |
+|   #   |
++   #   |
+|   #   |
+|   #   |
+U+2545  BOX DRAWINGS LEFT DOWN HEAVY AND RIGHT UP LIGHT
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|#####  |
+|#######|
+|#####  |
+|  ###  |
+|  ###  |
++  ###  |
+|  ###  |
+|  ###  |
+U+2546  BOX DRAWINGS RIGHT DOWN HEAVY AND LEFT UP LIGHT
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|  #####|
+|#######|
+|  #####|
+|  ###  |
+|  ###  |
++  ###  |
+|  ###  |
+|  ###  |
+U+2547  BOX DRAWINGS DOWN LIGHT AND UP HORIZONTAL HEAVY
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|#######|
+|#######|
+|#######|
+|   #   |
+|   #   |
++   #   |
+|   #   |
+|   #   |
+U+2548  BOX DRAWINGS UP LIGHT AND DOWN HORIZONTAL HEAVY
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|#######|
+|#######|
+|#######|
+|  ###  |
+|  ###  |
++  ###  |
+|  ###  |
+|  ###  |
+U+2549  BOX DRAWINGS RIGHT LIGHT AND LEFT VERTICAL HEAVY
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|#####  |
+|#######|
+|#####  |
+|  ###  |
+|  ###  |
++  ###  |
+|  ###  |
+|  ###  |
+U+254A  BOX DRAWINGS LEFT LIGHT AND RIGHT VERTICAL HEAVY
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  #####|
+|#######|
+|  #####|
+|  ###  |
+|  ###  |
++  ###  |
+|  ###  |
+|  ###  |
+U+254B  BOX DRAWINGS HEAVY VERTICAL AND HORIZONTAL
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|#######|
+|#######|
+|#######|
+|  ###  |
+|  ###  |
++  ###  |
+|  ###  |
+|  ###  |
+U+254C  BOX DRAWINGS LIGHT DOUBLE DASH HORIZONTAL
+|       |
+|       |
+|       |
+|       |
+|       |
+|       |
+| ## ## |
+|       |
+|       |
+|       |
++       |
+|       |
+|       |
+U+254D  BOX DRAWINGS HEAVY DOUBLE DASH HORIZONTAL
+|       |
+|       |
+|       |
+|       |
+|       |
+| ## ## |
+| ## ## |
+| ## ## |
+|       |
+|       |
++       |
+|       |
+|       |
+U+254E  BOX DRAWINGS LIGHT DOUBLE DASH VERTICAL
+|       |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|       |
+|   #   |
+|   #   |
+|   #   |
++   #   |
+|   #   |
+|       |
+U+254F  BOX DRAWINGS HEAVY DOUBLE DASH VERTICAL
+|       |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|       |
+|  ###  |
+|  ###  |
+|  ###  |
++  ###  |
+|  ###  |
+|       |
+U+2550  BOX DRAWINGS DOUBLE HORIZONTAL
+|       |
+|       |
+|       |
+|       |
+|       |
+|#######|
+|       |
+|#######|
+|       |
+|       |
++       |
+|       |
+|       |
+U+2551  BOX DRAWINGS DOUBLE VERTICAL
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
++  # #  |
+|  # #  |
+|  # #  |
+U+2552  BOX DRAWINGS DOWN SINGLE AND RIGHT DOUBLE
+|       |
+|       |
+|       |
+|       |
+|       |
+|   ####|
+|   #   |
+|   ####|
+|   #   |
+|   #   |
++   #   |
+|   #   |
+|   #   |
+U+2553  BOX DRAWINGS DOWN DOUBLE AND RIGHT SINGLE
+|       |
+|       |
+|       |
+|       |
+|       |
+|       |
+|  #####|
+|  # #  |
+|  # #  |
+|  # #  |
++  # #  |
+|  # #  |
+|  # #  |
+U+2554  BOX DRAWINGS DOUBLE DOWN AND RIGHT
+|       |
+|       |
+|       |
+|       |
+|       |
+|  #####|
+|  #    |
+|  # ###|
+|  # #  |
+|  # #  |
++  # #  |
+|  # #  |
+|  # #  |
+U+2555  BOX DRAWINGS DOWN SINGLE AND LEFT DOUBLE
+|       |
+|       |
+|       |
+|       |
+|       |
+|####   |
+|   #   |
+|####   |
+|   #   |
+|   #   |
++   #   |
+|   #   |
+|   #   |
+U+2556  BOX DRAWINGS DOWN DOUBLE AND LEFT SINGLE
+|       |
+|       |
+|       |
+|       |
+|       |
+|       |
+|#####  |
+|  # #  |
+|  # #  |
+|  # #  |
++  # #  |
+|  # #  |
+|  # #  |
+U+2557  BOX DRAWINGS DOUBLE DOWN AND LEFT
+|       |
+|       |
+|       |
+|       |
+|       |
+|#####  |
+|    #  |
+|### #  |
+|  # #  |
+|  # #  |
++  # #  |
+|  # #  |
+|  # #  |
+U+2558  BOX DRAWINGS UP SINGLE AND RIGHT DOUBLE
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   ####|
+|   #   |
+|   ####|
+|       |
+|       |
++       |
+|       |
+|       |
+U+2559  BOX DRAWINGS UP DOUBLE AND RIGHT SINGLE
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|  #####|
+|       |
+|       |
+|       |
++       |
+|       |
+|       |
+U+255A  BOX DRAWINGS DOUBLE UP AND RIGHT
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|  # ###|
+|  #    |
+|  #####|
+|       |
+|       |
++       |
+|       |
+|       |
+U+255B  BOX DRAWINGS UP SINGLE AND LEFT DOUBLE
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|####   |
+|   #   |
+|####   |
+|       |
+|       |
++       |
+|       |
+|       |
+U+255C  BOX DRAWINGS UP DOUBLE AND LEFT SINGLE
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|#####  |
+|       |
+|       |
+|       |
++       |
+|       |
+|       |
+U+255D  BOX DRAWINGS DOUBLE UP AND LEFT
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|### #  |
+|    #  |
+|#####  |
+|       |
+|       |
++       |
+|       |
+|       |
+U+255E  BOX DRAWINGS VERTICAL SINGLE AND RIGHT DOUBLE
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   ####|
+|   #   |
+|   ####|
+|   #   |
+|   #   |
++   #   |
+|   #   |
+|   #   |
+U+255F  BOX DRAWINGS VERTICAL DOUBLE AND RIGHT SINGLE
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|  # ###|
+|  # #  |
+|  # #  |
+|  # #  |
++  # #  |
+|  # #  |
+|  # #  |
+U+2560  BOX DRAWINGS DOUBLE VERTICAL AND RIGHT
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|  # ###|
+|  #    |
+|  # ###|
+|  # #  |
+|  # #  |
++  # #  |
+|  # #  |
+|  # #  |
+U+2561  BOX DRAWINGS VERTICAL SINGLE AND LEFT DOUBLE
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|####   |
+|   #   |
+|####   |
+|   #   |
+|   #   |
++   #   |
+|   #   |
+|   #   |
+U+2562  BOX DRAWINGS VERTICAL DOUBLE AND LEFT SINGLE
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|### #  |
+|  # #  |
+|  # #  |
+|  # #  |
++  # #  |
+|  # #  |
+|  # #  |
+U+2563  BOX DRAWINGS DOUBLE VERTICAL AND LEFT
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|### #  |
+|    #  |
+|### #  |
+|  # #  |
+|  # #  |
++  # #  |
+|  # #  |
+|  # #  |
+U+2564  BOX DRAWINGS DOWN SINGLE AND HORIZONTAL DOUBLE
+|       |
+|       |
+|       |
+|       |
+|       |
+|#######|
+|       |
+|#######|
+|   #   |
+|   #   |
++   #   |
+|   #   |
+|   #   |
+U+2565  BOX DRAWINGS DOWN DOUBLE AND HORIZONTAL SINGLE
+|       |
+|       |
+|       |
+|       |
+|       |
+|       |
+|#######|
+|  # #  |
+|  # #  |
+|  # #  |
++  # #  |
+|  # #  |
+|  # #  |
+U+2566  BOX DRAWINGS DOUBLE DOWN AND HORIZONTAL
+|       |
+|       |
+|       |
+|       |
+|       |
+|#######|
+|       |
+|### ###|
+|  # #  |
+|  # #  |
++  # #  |
+|  # #  |
+|  # #  |
+U+2567  BOX DRAWINGS UP SINGLE AND HORIZONTAL DOUBLE
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|#######|
+|       |
+|#######|
+|       |
+|       |
++       |
+|       |
+|       |
+U+2568  BOX DRAWINGS UP DOUBLE AND HORIZONTAL SINGLE
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|#######|
+|       |
+|       |
+|       |
++       |
+|       |
+|       |
+U+2569  BOX DRAWINGS DOUBLE UP AND HORIZONTAL
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|### ###|
+|       |
+|#######|
+|       |
+|       |
++       |
+|       |
+|       |
+U+256A  BOX DRAWINGS VERTICAL SINGLE AND HORIZONTAL DOUBLE
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|#######|
+|       |
+|#######|
+|   #   |
+|   #   |
++   #   |
+|   #   |
+|   #   |
+U+256B  BOX DRAWINGS VERTICAL DOUBLE AND HORIZONTAL SINGLE
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|### ###|
+|  # #  |
+|  # #  |
+|  # #  |
++  # #  |
+|  # #  |
+|  # #  |
+U+256C  BOX DRAWINGS DOUBLE VERTICAL AND HORIZONTAL
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|  # #  |
+|### ###|
+|       |
+|### ###|
+|  # #  |
+|  # #  |
++  # #  |
+|  # #  |
+|  # #  |
+U+256D  BOX DRAWINGS LIGHT ARC DOWN AND RIGHT
+|       |
+|       |
+|       |
+|       |
+|       |
+|       |
+|     ##|
+|    #  |
+|   #   |
+|   #   |
++   #   |
+|   #   |
+|   #   |
+U+256E  BOX DRAWINGS LIGHT ARC DOWN AND LEFT
+|       |
+|       |
+|       |
+|       |
+|       |
+|       |
+|##     |
+|  #    |
+|   #   |
+|   #   |
++   #   |
+|   #   |
+|   #   |
+U+256F  BOX DRAWINGS LIGHT ARC UP AND LEFT
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|  #    |
+|##     |
+|       |
+|       |
+|       |
++       |
+|       |
+|       |
+U+2570  BOX DRAWINGS LIGHT ARC UP AND RIGHT
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|    #  |
+|     ##|
+|       |
+|       |
+|       |
++       |
+|       |
+|       |
+U+2571  BOX DRAWINGS LIGHT DIAGONAL UPPER RIGHT TO LOWER LEFT
+|      #|
+|      #|
+|     # |
+|     # |
+|    #  |
+|    #  |
+|   #   |
+|  #    |
+|  #    |
+| #     |
++ #     |
+|#      |
+|#      |
+U+2572  BOX DRAWINGS LIGHT DIAGONAL UPPER LEFT TO LOWER RIGHT
+|#      |
+|#      |
+| #     |
+| #     |
+|  #    |
+|  #    |
+|   #   |
+|    #  |
+|    #  |
+|     # |
++     # |
+|      #|
+|      #|
+U+2573  BOX DRAWINGS LIGHT DIAGONAL CROSS
+|#     #|
+|#     #|
+| #   # |
+| #   # |
+|  # #  |
+|  # #  |
+|   #   |
+|  # #  |
+|  # #  |
+| #   # |
++ #   # |
+|#     #|
+|#     #|
+U+2574  BOX DRAWINGS LIGHT LEFT
+|       |
+|       |
+|       |
+|       |
+|       |
+|       |
+|####   |
+|       |
+|       |
+|       |
++       |
+|       |
+|       |
+U+2575  BOX DRAWINGS LIGHT UP
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|       |
+|       |
+|       |
++       |
+|       |
+|       |
+U+2576  BOX DRAWINGS LIGHT RIGHT
+|       |
+|       |
+|       |
+|       |
+|       |
+|       |
+|   ####|
+|       |
+|       |
+|       |
++       |
+|       |
+|       |
+U+2577  BOX DRAWINGS LIGHT DOWN
+|       |
+|       |
+|       |
+|       |
+|       |
+|       |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
++   #   |
+|   #   |
+|   #   |
+U+2578  BOX DRAWINGS HEAVY LEFT
+|       |
+|       |
+|       |
+|       |
+|       |
+|####   |
+|####   |
+|####   |
+|       |
+|       |
++       |
+|       |
+|       |
+U+2579  BOX DRAWINGS HEAVY UP
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
+|       |
+|       |
+|       |
++       |
+|       |
+|       |
+U+257A  BOX DRAWINGS HEAVY RIGHT
+|       |
+|       |
+|       |
+|       |
+|       |
+|   ####|
+|   ####|
+|   ####|
+|       |
+|       |
++       |
+|       |
+|       |
+U+257B  BOX DRAWINGS HEAVY DOWN
+|       |
+|       |
+|       |
+|       |
+|       |
+|       |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
++  ###  |
+|  ###  |
+|  ###  |
+U+257C  BOX DRAWINGS LIGHT LEFT AND HEAVY RIGHT
+|       |
+|       |
+|       |
+|       |
+|       |
+|   ####|
+|#######|
+|   ####|
+|       |
+|       |
++       |
+|       |
+|       |
+U+257D  BOX DRAWINGS LIGHT UP AND HEAVY DOWN
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|  ###  |
+|  ###  |
+|  ###  |
+|  ###  |
++  ###  |
+|  ###  |
+|  ###  |
+U+257E  BOX DRAWINGS HEAVY LEFT AND LIGHT RIGHT
+|       |
+|       |
+|       |
+|       |
+|       |
+|####   |
+|#######|
+|####   |
+|       |
+|       |
++       |
+|       |
+|       |
+U+257F  BOX DRAWINGS HEAVY UP AND LIGHT DOWN
 |  ###  |
 |  ###  |
 |  ###  |
