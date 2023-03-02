@@ -6324,3 +6324,13 @@ U+257F  BOX DRAWINGS HEAVY UP AND LIGHT DOWN
 +   #   |
 |   #   |
 |   #   |
+U+20AC EURO SIGN
+|   ### |
+|  #    |
+|  #    |
+| ####  |
+|  #    |
+| ####  |
+|  #    |
+|  #    |
++   ### |
