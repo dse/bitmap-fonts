@@ -1,4 +1,4 @@
-FONT -dse-7x7-medium-r-normal--17-170-72-72-c-70-iso19646-1
+FONT -dse-7x7-medium-r-normal--17-170-72-72-c-70-iso10646-1
 SIZE 17 72 72
 FONTBOUNDINGBOX 7 17 0 -3
 STARTPROPERTIES
