@@ -1,7 +1,7 @@
 SplineFontDB: 3.2
-FontName: 7x8medium
-FullName: 7x8 medium
-FamilyName: 7x8
+FontName: seventysevenmedium
+FullName: seventyseven medium
+FamilyName: seventyseven
 Weight: Book
 Copyright: Copyright (c) 2023, Darren S. Embry
 UComments: "2023-3-7: Created with FontForge (http://fontforge.org)"
@@ -15,14 +15,14 @@ InvalidEm: 0
 LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
-XUID: [1021 37 -207484796 8687216]
+XUID: [1021 996 -1902970157 12220947]
 StyleMap: 0x0040
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
-CreationTime: 1678226834
-ModificationTime: 1678226834
+CreationTime: 1678225480
+ModificationTime: 1678225480
 PfmFamily: 48
 TTFWeight: 400
 TTFWidth: 5
