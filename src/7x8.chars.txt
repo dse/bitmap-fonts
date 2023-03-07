@@ -115,7 +115,7 @@ U+002C COMMA
 |   #
 +  #
 |
-U+002D HYPHEN-MINUS
+U+002D HYPHEN-MINUS; U+2212 MINUS SIGN
 |
 |
 |
@@ -2355,4 +2355,112 @@ U+205E VERTICAL FOUR DOTS
 |   #
 |
 +   #
+|
+U+20AC EURO SIGN
+|  ###
+| #   #
+|####
+| #
+|####
+| #   #
++  ###
+|
+U+0394 GREEK CAPITAL LETTER DELTA
+|   #
+|   #
+|  # #
+|  # #
+|  # #
+| #   #
++ #####
+|
+U+03A9 GREEK CAPITAL LETTER OMEGA; U+2126 OHM SIGN
+|  ###
+| #   #
+| #   #
+| #   #
+| #   #
+|  # #
++ ## ##
+|
+U+03C0 GREEK SMALL LETTER PI
+|
+|
+| #####
+|  # #
+|  # #
+|  # #
++  # #
+|
+U+2117 SOUND RECORDING COPYRIGHT
+|  ###
+| #   #
+|# ### #
+|# ### #
+|# #   #
+| #   #
++  ###
+|
+U+2120 SERVICE MARK
+| ### #
+| # ###
+|## # #
+|
+|
+|
++
+|
+U+2122 TRADE MARK SIGN
+|#### #
+| # ###
+| # # #
+|
+|
+|
++
+|
+U+2127 INVERTED OHM SIGN
+| ## ##
+|  # #
+| #   #
+| #   #
+| #   #
+| #   #
++  ###
+|
+U+237C RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW (ANGZARR)
+|   # #
+|   ##
+|  ##
+|   ##
+|   #
+|# #####
++##
+|###
+U+FFFD REPLACEMENT CHARACTER
+|   #
+|  ###
+| #   #
+|###  ##
+| #####
+|  # #
++   #
+|
+U+0259 LATIN SMALL LETTER SCHWA
+|
+|
+| ####
+|     #
+| #####
+| #   #
++  ###
+|
+U+FFFF
+|
+|
+|
+|
+|
+|
++
 |
