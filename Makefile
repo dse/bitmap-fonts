@@ -8,7 +8,7 @@ BDFBDF_OPTIONS :=
 BITMAPFONT2TTF := bitmapfont2ttf
 BITMAPFONT2TTF_OPTIONS :=
 
-TARGETS := $(BDFS) $(TTFS)
+TARGETS := $(BDFS) $(TTFS) $(SFDS)
 
 default: $(TARGETS)
 sfd: $(SFDS)
