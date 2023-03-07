@@ -1,7 +1,7 @@
 SRC_FONTS  := $(wildcard src/*.font.txt)
-SRC_CHARS  := $(patsubst src/%.font.txt,src/%.chars.txt,$(SRC_FONTS))
+SRC_CHARS  := $(wildcard src/*.chars.txt)
 BDFS       := $(patsubst src/%.font.txt,bdf/%.bdf,$(SRC_FONTS))
-TTFS       := $(patsubst src/%.font.txt,ttf/%.ttf,$(SRC_FONTS)) ttf/7x8-tall-scan.ttf ttf/7x8-proper-scan.ttf
+TTFS       := $(patsubst src/%.font.txt,ttf/%.ttf,$(SRC_FONTS))
 SFDS       := $(patsubst src/%.font.txt,sfd/%.sfd,$(SRC_FONTS))
 BDFBDF := ~/git/dse.d/perl-font-bitmap/bin/bdfbdf
 BDFBDF_OPTIONS :=
@@ -28,7 +28,7 @@ ttf/%.ttf: bdf/%.bdf Makefile
 	$(BITMAPFONT2TTF) $(BITMAPFONT2TTF_OPTIONS) $< $@.tmp.ttf
 	mv $@.tmp.ttf $@
 
-ttf/%-scan.ttf: bdf/%.bdf Makefile
+ttf/77-scanlines-%.ttf: bdf/77-scanlines-%.bdf Makefile
 	mkdir -p ttf || true
 	$(BITMAPFONT2TTF) $(BITMAPFONT2TTF_OPTIONS) --bottom-five-eighths $< $@.tmp.ttf
 	mv $@.tmp.ttf $@
