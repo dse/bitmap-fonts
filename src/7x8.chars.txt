@@ -2464,3 +2464,716 @@ U+FFFF
 |
 +
 |
+U+0400 CYRILLIC CAPITAL LETTER IE WITH GRAVE
+|    #
+|     #
+| #####
+| #
+| ####
+| #
++ #####
+|
+U+0401 CYRILLIC CAPITAL LETTER IO
+| #   #
+|
+| #####
+| #
+| ####
+| #
++ #####
+|
+U+0402 CYRILLIC CAPITAL LETTER DJE
+| ###
+|  #
+|  #
+|  ###
+|  #  #
+|  #  #
++  # #
+|
+U+0403 CYRILLIC CAPITAL LETTER GJE
+|     #
+|    #
+| #####
+| #
+| #
+| #
++ #
+|
+U+0404 CYRILLIC CAPITAL LETTER UKRAINIAN IE
+|  ###
+| #   #
+| #
+| ####
+| #
+| #   #
++  ###
+U+0405 CYRILLIC CAPITAL LETTER DZE
+|  ###
+| #   #
+| #
+|  ###
+|     #
+| #   #
++  ###
+U+0406 CYRILLIC CAPITAL LETTER BYELORUSSIAN-UKRAINIAN I
+|  ###
+|   #
+|   #
+|   #
+|   #
+|   #
++  ###
+U+0407 CYRILLIC CAPITAL LETTER YI
+| #   #
+|
+|  ###
+|   #
+|   #
+|   #
++  ###
+U+0408 CYRILLIC CAPITAL LETTER JE
+|     #
+|     #
+|     #
+|     #
+|     #
+| #   #
++  ###
+U+0409 CYRILLIC CAPITAL LETTER LJE
+| ###
+| # #
+| # #
+| # ##
+| # # #
+| # # #
++#  ##
+U+040A CYRILLIC CAPITAL LETTER NJE
+| # #
+| # #
+| # #
+| ####
+| # # #
+| # # #
++ # ##
+U+040B CYRILLIC CAPITAL LETTER TSHE
+| ###
+|  #
+|  #
+|  ###
+|  #  #
+|  #  #
++  #  #
+U+040C CYRILLIC CAPITAL LETTER KJE
+|    #
+|   #
+| #   #
+| #  #
+| ###
+| #  #
++ #   #
+U+040D CYRILLIC CAPITAL LETTER I WITH GRAVE
+|  #
+|   #
+| #   #
+| #  ##
+| # # #
+| ##  #
++ #   #
+U+040E CYRILLIC CAPITAL LETTER SHORT U
+|  #  #
+|   ##
+| #   #
+| #   #
+|  ###
+|   #
++ ##
+U+040F CYRILLIC CAPITAL LETTER DZHE
+| #   #
+| #   #
+| #   #
+| #   #
+| #   #
+| #   #
++ #####
+|   #
+U+0410 CYRILLIC CAPITAL LETTER A
+|   #
+|  # #
+| #   #
+| #   #
+| #####
+| #   #
++ #   #
+U+0411 CYRILLIC CAPITAL LETTER BE
+| #####
+| #
+| #
+| ####
+| #   #
+| #   #
+| ####
+U+0412 CYRILLIC CAPITAL LETTER VE
+| ####
+| #   #
+| #   #
+| ####
+| #   #
+| #   #
++ ####
+U+0413 CYRILLIC CAPITAL LETTER GHE
+| #####
+| #
+| #
+| #
+| #
+| #
++ #
+U+0414 CYRILLIC CAPITAL LETTER DE
+|  ###
+|  # #
+| #  #
+| #  #
+| #  #
+|######
+|#    #
+U+0415 CYRILLIC CAPITAL LETTER IE
+| #####
+| #
+| #
+| ####
+| #
+| #
++ #####
+U+0416 CYRILLIC CAPITAL LETTER ZHE
+| # # #
+| # # #
+| # # #
+|  ###
+| # # #
+| # # #
+| # # #
+U+0417 CYRILLIC CAPITAL LETTER ZE
+|  ###
+| #   #
+|     #
+|  ###
+|     #
+| #   #
++  ###
+U+0418 CYRILLIC CAPITAL LETTER I
+| #   #
+| #   #
+| #  ##
+| # # #
+| ##  #
+| #   #
++ #   #
+U+0419 CYRILLIC CAPITAL LETTER SHORT I
+|  #  #
+|   ##
+| #   #
+| #  ##
+| # # #
+| ##  #
++ #   #
+U+041A cyrilic capital letter ka
+| #   #
+| #  #
+| # #
+| ##
+| # #
+| #  #
++ #   #
+u+041b cyrillic capital letter el
+|  ####
+|  #  #
+|  #  #
+|  #  #
+|  #  #
+|  #  #
++ #   #
+U+041c cyrillic capital letter em
+| #   #
+| ## ##
+| # # #
+| # # #
+| #   #
+| #   #
++ #   #
+u+041d cyrillic capital letter en
+| #   #
+| #   #
+| #   #
+| #####
+| #   #
+| #   #
++ #   #
+u+041e cyrillic capital letter o
+|  ###
+| #   #
+| #   #
+| #   #
+| #   #
+| #   #
++  ###
+u+041f cyrillic capital letter pe
+| #####
+| #   #
+| #   #
+| #   #
+| #   #
+| #   #
+| #   #
+U+0420      Р       CYRILLIC CAPITAL LETTER ER
+| ####
+| #   #
+| #   #
+| ####
+| #
+| #
++ #
+U+0421      С       CYRILLIC CAPITAL LETTER ES
+|  ###
+| #   #
+| #
+| #
+| #
+| #   #
++  ###
+U+0422      Т       CYRILLIC CAPITAL LETTER TE
+| #####
+|   #
+|   #
+|   #
+|   #
+|   #
++   #
+U+0423      У       CYRILLIC CAPITAL LETTER U
+| #   #
+| #   #
+| #   #
+| #   #
+|  # #
+|   #
++ ##
+U+0424      Ф       CYRILLIC CAPITAL LETTER EF
+|   #
+|  ###
+| # # #
+| # # #
+| # # #
+|  ###
++   #
+U+0425      Х       CYRILLIC CAPITAL LETTER HA (CYRILLIC CAPITAL LETTER KHA)
+| #   #
+| #   #
+|  # #
+|   #
+|  # #
+| #   #
++ #   #
+U+0426      Ц       CYRILLIC CAPITAL LETTER TSE
+| #  #
+| #  #
+| #  #
+| #  #
+| #  #
+| #  #
++ #####
+|     #
+U+0427      Ч       CYRILLIC CAPITAL LETTER CHE
+| #   #
+| #   #
+| #   #
+|  ####
+|     #
+|     #
++     #
+U+0428      Ш       CYRILLIC CAPITAL LETTER SHA
+| # # #
+| # # #
+| # # #
+| # # #
+| # # #
+| # # #
++ #####
+U+0429      Щ       CYRILLIC CAPITAL LETTER SHCHA
+| # # #
+| # # #
+| # # #
+| # # #
+| # # #
+| # # #
++ #####
+|     #
+U+042A      Ъ       CYRILLIC CAPITAL LETTER HARD SIGN
+| ##
+|  #
+|  #
+|  ###
+|  #  #
+|  #  #
++  ###
+U+042B      Ы       CYRILLIC CAPITAL LETTER YERU (CYRILLIC CAPITAL LETTER YERI)
+| #   #
+| #   #
+| #   #
+| ##  #
+| # # #
+| # # #
++ ##  #
+U+042C      Ь       CYRILLIC CAPITAL LETTER SOFT SIGN
+| #
+| #
+| #
+| ####
+| #   #
+| #   #
++ ####
+U+042D      Э       CYRILLIC CAPITAL LETTER E (CYRILLIC CAPITAL LETTER REVERSED E)
+|  ###
+| #   #
+|     #
+|  ####
+|     #
+| #   #
++  ###
+U+042E      Ю       CYRILLIC CAPITAL LETTER YU (CYRILLIC CAPITAL LETTER IU)
+| #  #
+| # # #
+| # # #
+| ### #
+| # # #
+| # # #
++ #  #
+U+042F      Я       CYRILLIC CAPITAL LETTER YA (CYRILLIC CAPITAL LETTER IA)
+|  ####
+| #   #
+| #   #
+|  ####
+|   # #
+|  #  #
++ #   #
+U+0430      а       CYRILLIC SMALL LETTER A
+|
+|
+|  ###
+|     #
+|  ####
+| #   #
++  ####
+U+0431      б       CYRILLIC SMALL LETTER BE
+|     #
+|  ###
+| #
+| ####
+| #   #
+| #   #
++ ####
+U+0432      в       CYRILLIC SMALL LETTER VE
+| ####
+| #   #
+| ####
+| #   #
++ ####
+U+0433      г       CYRILLIC SMALL LETTER GHE (CYRILLIC SMALL LETTER GE)
+| #####
+| #
+| #
+| #
++ #
+U+0434      д       CYRILLIC SMALL LETTER DE
+|  ###
+| #  #
+| #  #
+|######
+|#    #
+U+0435      е       CYRILLIC SMALL LETTER IE
+|  ###
+| #   #
+| #####
+| #
++  ####
+U+0436      ж       CYRILLIC SMALL LETTER ZHE
+| # # #
+| # # #
+|  ###
+| # # #
++ # # #
+U+0437      з       CYRILLIC SMALL LETTER ZE
+| ####
+|     #
+|  ###
+|     #
++ ####
+U+0438      и       CYRILLIC SMALL LETTER I (CYRILLIC SMALL LETTER II)
+| #   #
+| #  ##
+| # # #
+| ##  #
++ #   #
+U+0439      й       CYRILLIC SMALL LETTER SHORT I (CYRILLIC SMALL LETTER SHORT II)
+|  #  #
+|   ##
+| #  ##
+| # # #
+| ##  #
++ #   #
+U+043A      к       CYRILLIC SMALL LETTER KA
+| #   #
+| #  #
+| ###
+| #  #
++ #   #
+U+043B      л       CYRILLIC SMALL LETTER EL
+|  ####
+|  #  #
+|  #  #
+|  #  #
++ #   #
+U+043C      м       CYRILLIC SMALL LETTER EM
+| #   #
+| ## ##
+| # # #
+| # # #
++ #   #
+U+043D      н       CYRILLIC SMALL LETTER EN
+| #   #
+| #   #
+| #####
+| #   #
++ #   #
+U+043E      о       CYRILLIC SMALL LETTER O
+|  ###
+| #   #
+| #   #
+| #   #
++  ###
+U+043F      п       CYRILLIC SMALL LETTER PE
+| #####
+| #   #
+| #   #
+| #   #
+| #   #
+U+0440      р       CYRILLIC SMALL LETTER ER
+| ####
+| #   #
+| #   #
+| ####
++ #
+| #
+U+0441      с       CYRILLIC SMALL LETTER ES
+|  ####
+| #
+| #
+| #
++  ####
+U+0442      т       CYRILLIC SMALL LETTER TE
+| #####
+|   #
+|   #
+|   #
++   #
+U+0443      у       CYRILLIC SMALL LETTER U
+| #   #
+| #   #
+| #   #
+|  # #
++   #
+| ##
+U+0444      ф       CYRILLIC SMALL LETTER EF
+|   #
+|   #
+|  ###
+| # # #
+| # # #
+|  ###
++   #
+|   #
+U+0445      х       CYRILLIC SMALL LETTER HA (CYRILLIC SMALL LETTER KHA)
+| #   #
+|  # #
+|   #
+|  # #
++ #   #
+U+0446      ц       CYRILLIC SMALL LETTER TSE
+| #  #
+| #  #
+| #  #
+| #  #
++ #####
+|     #
+U+0447      ч       CYRILLIC SMALL LETTER CHE
+| #   #
+| #   #
+|  ####
+|     #
++     #
+U+0448      ш       CYRILLIC SMALL LETTER SHA
+| # # #
+| # # #
+| # # #
+| # # #
++ #####
+U+0449      щ       CYRILLIC SMALL LETTER SHCHA
+| # # #
+| # # #
+| # # #
+| # # #
++ #####
+|     #
+U+044A      ъ       CYRILLIC SMALL LETTER HARD SIGN
+| ##
+|  #
+|  ###
+|  #  #
++  ###
+U+044B      ы       CYRILLIC SMALL LETTER YERU (CYRILLIC SMALL LETTER YERI)
+| #   #
+| #   #
+| ##  #
+| # # #
++ ##  #
+U+044C      ь       CYRILLIC SMALL LETTER SOFT SIGN
+| #
+| #
+| ####
+| #   #
++ ####
+U+044D      э       CYRILLIC SMALL LETTER E (CYRILLIC SMALL LETTER REVERSED E)
+| ####
+|     #
+|  ####
+|     #
++ ####
+U+044E      ю       CYRILLIC SMALL LETTER YU (CYRILLIC SMALL LETTER IU)
+| #  #
+| # # #
+| ### #
+| # # #
++ #  #
+U+044F      я       CYRILLIC SMALL LETTER YA (CYRILLIC SMALL LETTER IA)
+|  ####
+| #   #
+|  ####
+|   # #
++ ##  #
+U+0450      ѐ       CYRILLIC SMALL LETTER IE WITH GRAVE
+|    #
+|     #
+|  ###
+| #   #
+| #####
+| #
++  ####
+U+0451      ё       CYRILLIC SMALL LETTER IO
+| #   #
+|
+|  ###
+| #   #
+| #####
+| #
++  ####
+U+0452      ђ       CYRILLIC SMALL LETTER DJE
+|  #
+| ###
+|  #
+|  #
+|  ###
+|  #  #
++  #  #
+|    #
+U+0453      ѓ       CYRILLIC SMALL LETTER GJE
+|     #
+|    #
+| #####
+| #
+| #
++ #
+U+0454      є       CYRILLIC SMALL LETTER UKRAINIAN IE (CYRILLIC SMALL LETTER E)
+|  ####
+| #
+| ####
+| #
++  ####
+U+0455      ѕ       CYRILLIC SMALL LETTER DZE
+|  ####
+| #
+|  ###
+|     #
++ ####
+U+0456      і       CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I (CYRILLIC SMALL LETTER I)
+|   #
+|
+|  ##
+|   #
+|   #
+|   #
++  ###
+U+0457      ї       CYRILLIC SMALL LETTER YI
+|
+| #   #
+|
+|   #
+|   #
+|   #
++  ###
+U+0458      ј       CYRILLIC SMALL LETTER JE
+|    #
+|
+|   ##
+|    #
+|    #
+|    #
++ #  #
+|  ##
+U+0459      љ       CYRILLIC SMALL LETTER LJE
+| ###
+| # #
+| # ##
+| # # #
++#  ##
+U+045A      њ       CYRILLIC SMALL LETTER NJE
+| # #
+| # #
+| ####
+| # # #
++ # ##
+U+045B      ћ       CYRILLIC SMALL LETTER TSHE
+|  #
+| ###
+|  #
+|  #
+|  ###
+|  #  #
++  #  #
+U+045C      ќ       CYRILLIC SMALL LETTER KJE
+|    #
+|   #
+| #  #
+| ###
+| #  #
++ #   #
+U+045D      ѝ       CYRILLIC SMALL LETTER I WITH GRAVE
+|  #
+|   #
+| #  ##
+| # # #
+| ##  #
++ #   #
+U+045E      ў       CYRILLIC SMALL LETTER SHORT U
+|  #  #
+|   ##
+|
+| #   #
+|  ###
++   #
+| ##
+U+045F      џ       CYRILLIC SMALL LETTER DZHE
+| #   #
+| #   #
+| #   #
+| #   #
++ #####
+|   #
