@@ -2630,13 +2630,13 @@ U+0413 CYRILLIC CAPITAL LETTER GHE
 | #
 + #
 U+0414 CYRILLIC CAPITAL LETTER DE
-|  ###
-|  # #
-| #  #
-| #  #
-| #  #
-|######
-|#    #
+|    ##
+|   # #
+|  #  #
+|  #  #
+|  #  #
+|  ####
+| #   #
 U+0415 CYRILLIC CAPITAL LETTER IE
 | #####
 | #
@@ -2686,13 +2686,13 @@ U+041A cyrilic capital letter ka
 | #  #
 + #   #
 u+041b cyrillic capital letter el
-|  ####
+|   ###
 |  #  #
 |  #  #
 |  #  #
 |  #  #
 |  #  #
-+ #   #
++ ##  #
 U+041c cyrillic capital letter em
 | #   #
 | ## ##
@@ -2884,11 +2884,11 @@ U+0433      г       CYRILLIC SMALL LETTER GHE (CYRILLIC SMALL LETTER GE)
 | #
 + #
 U+0434      д       CYRILLIC SMALL LETTER DE
-|  ###
-| #  #
-| #  #
-|######
-|#    #
+|    ##
+|   # #
+|  #  #
+|  ####
+| #   #
 U+0435      е       CYRILLIC SMALL LETTER IE
 |  ###
 | #   #
@@ -2927,11 +2927,11 @@ U+043A      к       CYRILLIC SMALL LETTER KA
 | #  #
 + #   #
 U+043B      л       CYRILLIC SMALL LETTER EL
-|  ####
+|   ###
 |  #  #
 |  #  #
 |  #  #
-+ #   #
++ ##  #
 U+043C      м       CYRILLIC SMALL LETTER EM
 | #   #
 | ## ##
