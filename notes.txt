@@ -1,0 +1,14 @@
+The Apple II font is the best bitmap display font ever, fight me.
+
+The Apple I and early Apple II models used a Signetics 2513 character
+generator to display ASCII characters in the range U+0020 to U+005F.
+Characters were 5 pixels wide and 7 pixels tall, displayed in a 7-by-8
+character cell.  The top scan line is always blank, not the bottom.
+These models could only display uppercase letters, not lowercase.
+
+https://en.wikipedia.org/wiki/Apple_I
+
+Later Apple II models, including the //e and //gs, used a 2316 ROM
+chip that also included lowercase letters and moved the (now mostly)
+blank scan line to the bottom row, allowing descenders.  One could
+also use a 2716 EPROM in place of the 2316.
