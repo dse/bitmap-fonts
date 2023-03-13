@@ -17,20 +17,30 @@ bdf/%.bdf: src/%.font.txt Makefile
 	mkdir -p bdf || true
 	$(BDFBDF) $(BDFBDF_OPTIONS) $< > $@.tmp.bdf
 	mv $@.tmp.bdf $@
-
 sfd/%.sfd: bdf/%.bdf Makefile
 	mkdir -p sfd || true
 	$(BITMAPFONT2TTF) $(BITMAPFONT2TTF_OPTIONS) $< $@.tmp.sfd
 	mv $@.tmp.sfd $@
-
 ttf/%.ttf: bdf/%.bdf Makefile
 	mkdir -p ttf || true
 	$(BITMAPFONT2TTF) $(BITMAPFONT2TTF_OPTIONS) $< $@.tmp.ttf
 	mv $@.tmp.ttf $@
 
-ttf/77-scanlines-%.ttf: bdf/77-scanlines-%.bdf Makefile
+ttf/2316-1%.ttf: bdf/2316-1%.bdf Makefile
 	mkdir -p ttf || true
-	$(BITMAPFONT2TTF) $(BITMAPFONT2TTF_OPTIONS) --bottom-five-eighths $< $@.tmp.ttf
+	$(BITMAPFONT2TTF) $(BITMAPFONT2TTF_OPTIONS) --top=0.5 $< $@.tmp.ttf
+	mv $@.tmp.ttf $@
+ttf/2316-2%.ttf: bdf/2316-2%.bdf Makefile
+	mkdir -p ttf || true
+	$(BITMAPFONT2TTF) $(BITMAPFONT2TTF_OPTIONS) --top=0.625 $< $@.tmp.ttf
+	mv $@.tmp.ttf $@
+ttf/2316-3%.ttf: bdf/2316-3%.bdf Makefile
+	mkdir -p ttf || true
+	$(BITMAPFONT2TTF) $(BITMAPFONT2TTF_OPTIONS) --top=0.6875 $< $@.tmp.ttf
+	mv $@.tmp.ttf $@
+ttf/2316-4%.ttf: bdf/2316-4%.bdf Makefile
+	mkdir -p ttf || true
+	$(BITMAPFONT2TTF) $(BITMAPFONT2TTF_OPTIONS) --top=0.75 $< $@.tmp.ttf
 	mv $@.tmp.ttf $@
 
 clean:
