@@ -4,7 +4,7 @@ FullName: 2316 47 medium
 FamilyName: 2316 47
 Weight: Book
 Copyright: Copyright (c) 2023, Darren S. Embry
-UComments: "2023-3-13: Created with FontForge (http://fontforge.org)"
+UComments: "2023-3-18: Created with FontForge (http://fontforge.org)"
 Version: 001.000
 ItalicAngle: 0
 UnderlinePosition: -100
@@ -15,14 +15,14 @@ InvalidEm: 0
 LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
-XUID: [1021 182 1669581083 5285741]
+XUID: [1021 592 1943023699 11123828]
 StyleMap: 0x0040
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
-CreationTime: 1678746968
-ModificationTime: 1678746968
+CreationTime: 1679175572
+ModificationTime: 1679175572
 PfmFamily: 48
 TTFWeight: 400
 TTFWidth: 5
@@ -61,7 +61,7 @@ NameList: AGL For New Fonts
 DisplaySize: 8
 AntiAlias: 1
 FitToEm: 0
-BeginChars: 65536 370
+BeginChars: 65536 411
 
 StartChar: space
 Encoding: 32 32 0
@@ -20916,6 +20916,2056 @@ SplineSet
  250 0 l 1
  250 -125 l 1
  188 -125 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2713
+Encoding: 10003 10003 370
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 108 0 875 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!(!<W<%!</M-O8o7\##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!58OPjD#T[D_!!3o?%Yarf"U5/2!a5SPn$!'cz8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+312 500 m 1
+ 312 625 l 1
+ 375 625 l 1
+ 375 500 l 1
+ 312 500 l 1
+250 375 m 1
+ 250 500 l 1
+ 312 500 l 1
+ 312 375 l 1
+ 250 375 l 1
+62 250 m 1
+ 62 375 l 1
+ 125 375 l 1
+ 125 250 l 1
+ 62 250 l 1
+188 250 m 1
+ 188 375 l 1
+ 250 375 l 1
+ 250 250 l 1
+ 188 250 l 1
+125 125 m 1
+ 125 250 l 1
+ 188 250 l 1
+ 188 125 l 1
+ 125 125 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2714
+Encoding: 10004 10004 371
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 110 0 875 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!(!<W<%!</M-O8o7\##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!78OPjD#T[D_?smF$@>J;>?r16=!!!1o!;VBWQ'MCM!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+312 625 m 1
+ 312 750 l 1
+ 375 750 l 1
+ 375 625 l 1
+ 312 625 l 1
+250 500 m 1
+ 250 625 l 1
+ 375 625 l 1
+ 375 500 l 1
+ 250 500 l 1
+62 375 m 1
+ 62 500 l 1
+ 125 500 l 1
+ 125 375 l 1
+ 62 375 l 1
+188 375 m 1
+ 188 500 l 1
+ 312 500 l 1
+ 312 375 l 1
+ 188 375 l 1
+62 250 m 1
+ 62 375 l 1
+ 250 375 l 1
+ 250 250 l 1
+ 62 250 l 1
+125 125 m 1
+ 125 250 l 1
+ 188 250 l 1
+ 188 125 l 1
+ 125 125 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2717
+Encoding: 10007 10007 372
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 108 0 875 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!(!<W<%!</M-O8o7\##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!58OPjD#T[D_?uTQ$?k<<I(Bt'D#%dl"A1`JNz8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+62 625 m 1
+ 62 750 l 1
+ 125 750 l 1
+ 125 625 l 1
+ 62 625 l 1
+312 625 m 1
+ 312 750 l 1
+ 375 750 l 1
+ 375 625 l 1
+ 312 625 l 1
+125 500 m 1
+ 125 625 l 1
+ 188 625 l 1
+ 188 500 l 1
+ 125 500 l 1
+250 500 m 1
+ 250 625 l 1
+ 312 625 l 1
+ 312 500 l 1
+ 250 500 l 1
+188 375 m 1
+ 188 500 l 1
+ 250 500 l 1
+ 250 375 l 1
+ 188 375 l 1
+125 250 m 1
+ 125 375 l 1
+ 188 375 l 1
+ 188 250 l 1
+ 125 250 l 1
+250 250 m 1
+ 250 375 l 1
+ 312 375 l 1
+ 312 250 l 1
+ 250 250 l 1
+62 125 m 1
+ 62 250 l 1
+ 125 250 l 1
+ 125 125 l 1
+ 62 125 l 1
+312 125 m 1
+ 312 250 l 1
+ 375 250 l 1
+ 375 125 l 1
+ 312 125 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2718
+Encoding: 10008 10008 373
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 108 0 875 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!(!<W<%!</M-O8o7\##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!58OPjD#T[Do@E;l]!5]][(Bt'D%ZUS;Nc&J:z8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+62 750 m 1
+ 62 875 l 1
+ 125 875 l 1
+ 125 750 l 1
+ 62 750 l 1
+312 750 m 1
+ 312 875 l 1
+ 375 875 l 1
+ 375 750 l 1
+ 312 750 l 1
+62 625 m 1
+ 62 750 l 1
+ 188 750 l 1
+ 188 625 l 1
+ 62 625 l 1
+250 625 m 1
+ 250 750 l 1
+ 375 750 l 1
+ 375 625 l 1
+ 250 625 l 1
+125 500 m 1
+ 125 625 l 1
+ 312 625 l 1
+ 312 500 l 1
+ 125 500 l 1
+125 375 m 1
+ 125 500 l 1
+ 312 500 l 1
+ 312 375 l 1
+ 125 375 l 1
+62 250 m 1
+ 62 375 l 1
+ 188 375 l 1
+ 188 250 l 1
+ 62 250 l 1
+250 250 m 1
+ 250 375 l 1
+ 375 375 l 1
+ 375 250 l 1
+ 250 250 l 1
+62 125 m 1
+ 62 250 l 1
+ 125 250 l 1
+ 125 125 l 1
+ 62 125 l 1
+312 125 m 1
+ 312 250 l 1
+ 375 250 l 1
+ 375 125 l 1
+ 312 125 l 1
+EndSplineSet
+EndChar
+
+StartChar: arrowleft
+Encoding: 8592 8592 374
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 106 0 750 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!'!<W<%!&_P-2#mUV##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!38OPjD#T[Cd?r170!Fc'6"oni=!8U0c,?Y!H!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+188 625 m 1
+ 188 750 l 1
+ 250 750 l 1
+ 250 625 l 1
+ 188 625 l 1
+125 500 m 1
+ 125 625 l 1
+ 188 625 l 1
+ 188 500 l 1
+ 125 500 l 1
+62 375 m 1
+ 62 500 l 1
+ 375 500 l 1
+ 375 375 l 1
+ 62 375 l 1
+125 250 m 1
+ 125 375 l 1
+ 188 375 l 1
+ 188 250 l 1
+ 125 250 l 1
+188 125 m 1
+ 188 250 l 1
+ 250 250 l 1
+ 250 125 l 1
+ 188 125 l 1
+EndSplineSet
+EndChar
+
+StartChar: arrowup
+Encoding: 8593 8593 375
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 105 0 875 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!(!<W<%!</M-O8o7\##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!28OPjD#T[Cd@'F#E@1[rS!!bObh2$Y#c2[hE!(fUS7'8jaJcGcN
+EndImage2
+Fore
+SplineSet
+188 750 m 1
+ 188 875 l 1
+ 250 875 l 1
+ 250 750 l 1
+ 188 750 l 1
+125 625 m 1
+ 125 750 l 1
+ 312 750 l 1
+ 312 625 l 1
+ 125 625 l 1
+62 500 m 1
+ 62 625 l 1
+ 125 625 l 1
+ 125 500 l 1
+ 62 500 l 1
+188 500 m 1
+ 188 625 l 1
+ 250 625 l 1
+ 250 500 l 1
+ 188 500 l 1
+312 500 m 1
+ 312 625 l 1
+ 375 625 l 1
+ 375 500 l 1
+ 312 500 l 1
+188 375 m 1
+ 188 500 l 1
+ 250 500 l 1
+ 250 375 l 1
+ 188 375 l 1
+188 250 m 1
+ 188 375 l 1
+ 250 375 l 1
+ 250 250 l 1
+ 188 250 l 1
+188 125 m 1
+ 188 250 l 1
+ 250 250 l 1
+ 250 125 l 1
+ 188 125 l 1
+188 0 m 1
+ 188 125 l 1
+ 250 125 l 1
+ 250 0 l 1
+ 188 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: arrowright
+Encoding: 8594 8594 376
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 106 0 750 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!'!<W<%!&_P-2#mUV##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!38OPjD#T[Cd@,PFk!Fc'6"oneA!3MWGBBB0o!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+188 625 m 1
+ 188 750 l 1
+ 250 750 l 1
+ 250 625 l 1
+ 188 625 l 1
+250 500 m 1
+ 250 625 l 1
+ 312 625 l 1
+ 312 500 l 1
+ 250 500 l 1
+62 375 m 1
+ 62 500 l 1
+ 375 500 l 1
+ 375 375 l 1
+ 62 375 l 1
+250 250 m 1
+ 250 375 l 1
+ 312 375 l 1
+ 312 250 l 1
+ 250 250 l 1
+188 125 m 1
+ 188 250 l 1
+ 250 250 l 1
+ 250 125 l 1
+ 188 125 l 1
+EndSplineSet
+EndChar
+
+StartChar: arrowdown
+Encoding: 8595 8595 377
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 105 0 875 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!(!<W<%!</M-O8o7\##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!28OPjD#T[Cd@"?$("q(V9!!MQeh=-"&;#gRr!(fUS7'8jaJcGcN
+EndImage2
+Fore
+SplineSet
+188 750 m 1
+ 188 875 l 1
+ 250 875 l 1
+ 250 750 l 1
+ 188 750 l 1
+188 625 m 1
+ 188 750 l 1
+ 250 750 l 1
+ 250 625 l 1
+ 188 625 l 1
+188 500 m 1
+ 188 625 l 1
+ 250 625 l 1
+ 250 500 l 1
+ 188 500 l 1
+188 375 m 1
+ 188 500 l 1
+ 250 500 l 1
+ 250 375 l 1
+ 188 375 l 1
+62 250 m 1
+ 62 375 l 1
+ 125 375 l 1
+ 125 250 l 1
+ 62 250 l 1
+188 250 m 1
+ 188 375 l 1
+ 250 375 l 1
+ 250 250 l 1
+ 188 250 l 1
+312 250 m 1
+ 312 375 l 1
+ 375 375 l 1
+ 375 250 l 1
+ 312 250 l 1
+125 125 m 1
+ 125 250 l 1
+ 312 250 l 1
+ 312 125 l 1
+ 125 125 l 1
+188 0 m 1
+ 188 125 l 1
+ 250 125 l 1
+ 250 0 l 1
+ 188 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: arrowboth
+Encoding: 8596 8596 378
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 105 0 875 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!(!<W<%!</M-O8o7\##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!28OPjD#T[D_!!3Ua)B]4c!!T(sc&Ir/?2ss*!(fUS7'8jaJcGcN
+EndImage2
+Fore
+SplineSet
+125 500 m 1
+ 125 625 l 1
+ 188 625 l 1
+ 188 500 l 1
+ 125 500 l 1
+250 500 m 1
+ 250 625 l 1
+ 312 625 l 1
+ 312 500 l 1
+ 250 500 l 1
+62 375 m 1
+ 62 500 l 1
+ 375 500 l 1
+ 375 375 l 1
+ 62 375 l 1
+125 250 m 1
+ 125 375 l 1
+ 188 375 l 1
+ 188 250 l 1
+ 125 250 l 1
+250 250 m 1
+ 250 375 l 1
+ 312 375 l 1
+ 312 250 l 1
+ 250 250 l 1
+EndSplineSet
+EndChar
+
+StartChar: arrowupdn
+Encoding: 8597 8597 379
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 108 0 875 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!(!<W<%!</M-O8o7\##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!58OPjD#T[Cd@'F#E@1WEJ$O-V3#mLE%R)JK*z8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+188 750 m 1
+ 188 875 l 1
+ 250 875 l 1
+ 250 750 l 1
+ 188 750 l 1
+125 625 m 1
+ 125 750 l 1
+ 312 750 l 1
+ 312 625 l 1
+ 125 625 l 1
+62 500 m 1
+ 62 625 l 1
+ 125 625 l 1
+ 125 500 l 1
+ 62 500 l 1
+188 500 m 1
+ 188 625 l 1
+ 250 625 l 1
+ 250 500 l 1
+ 188 500 l 1
+312 500 m 1
+ 312 625 l 1
+ 375 625 l 1
+ 375 500 l 1
+ 312 500 l 1
+188 375 m 1
+ 188 500 l 1
+ 250 500 l 1
+ 250 375 l 1
+ 188 375 l 1
+62 250 m 1
+ 62 375 l 1
+ 125 375 l 1
+ 125 250 l 1
+ 62 250 l 1
+188 250 m 1
+ 188 375 l 1
+ 250 375 l 1
+ 250 250 l 1
+ 188 250 l 1
+312 250 m 1
+ 312 375 l 1
+ 375 375 l 1
+ 375 250 l 1
+ 312 250 l 1
+125 125 m 1
+ 125 250 l 1
+ 312 250 l 1
+ 312 125 l 1
+ 125 125 l 1
+188 0 m 1
+ 188 125 l 1
+ 250 125 l 1
+ 250 0 l 1
+ 188 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: asteriskmath
+Encoding: 8727 8727 380
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 108 0 875 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!(!<W<%!</M-O8o7\##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!58OPjD#T[Cd?jL2F?k<=t&-`.8#mLE%BiFa!z8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+188 750 m 1
+ 188 875 l 1
+ 250 875 l 1
+ 250 750 l 1
+ 188 750 l 1
+62 625 m 1
+ 62 750 l 1
+ 125 750 l 1
+ 125 625 l 1
+ 62 625 l 1
+188 625 m 1
+ 188 750 l 1
+ 250 750 l 1
+ 250 625 l 1
+ 188 625 l 1
+312 625 m 1
+ 312 750 l 1
+ 375 750 l 1
+ 375 625 l 1
+ 312 625 l 1
+125 500 m 1
+ 125 625 l 1
+ 312 625 l 1
+ 312 500 l 1
+ 125 500 l 1
+188 375 m 1
+ 188 500 l 1
+ 250 500 l 1
+ 250 375 l 1
+ 188 375 l 1
+125 250 m 1
+ 125 375 l 1
+ 312 375 l 1
+ 312 250 l 1
+ 125 250 l 1
+62 125 m 1
+ 62 250 l 1
+ 125 250 l 1
+ 125 125 l 1
+ 62 125 l 1
+188 125 m 1
+ 188 250 l 1
+ 250 250 l 1
+ 250 125 l 1
+ 188 125 l 1
+312 125 m 1
+ 312 250 l 1
+ 375 250 l 1
+ 375 125 l 1
+ 312 125 l 1
+188 0 m 1
+ 188 125 l 1
+ 250 125 l 1
+ 250 0 l 1
+ 188 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2218
+Encoding: 8728 8728 381
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 104 0 750 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!'!<W<%!&_P-2#mUV##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!18OPjD#T[EZ?uQ-6$O-e8#d==miANE=z8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+125 625 m 1
+ 125 750 l 1
+ 312 750 l 1
+ 312 625 l 1
+ 125 625 l 1
+62 500 m 1
+ 62 625 l 1
+ 125 625 l 1
+ 125 500 l 1
+ 62 500 l 1
+312 500 m 1
+ 312 625 l 1
+ 375 625 l 1
+ 375 500 l 1
+ 312 500 l 1
+62 375 m 1
+ 62 500 l 1
+ 125 500 l 1
+ 125 375 l 1
+ 62 375 l 1
+312 375 m 1
+ 312 500 l 1
+ 375 500 l 1
+ 375 375 l 1
+ 312 375 l 1
+62 250 m 1
+ 62 375 l 1
+ 125 375 l 1
+ 125 250 l 1
+ 62 250 l 1
+312 250 m 1
+ 312 375 l 1
+ 375 375 l 1
+ 375 250 l 1
+ 312 250 l 1
+125 125 m 1
+ 125 250 l 1
+ 312 250 l 1
+ 312 125 l 1
+ 125 125 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2219
+Encoding: 8729 8729 382
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 104 0 625 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!&!<W<%!4,X8RfEEg##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!18OPjD#T[Cd@'F#M?iU6.!ce9DrSsE9z8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+188 500 m 1
+ 188 625 l 1
+ 250 625 l 1
+ 250 500 l 1
+ 188 500 l 1
+125 375 m 1
+ 125 500 l 1
+ 312 500 l 1
+ 312 375 l 1
+ 125 375 l 1
+188 250 m 1
+ 188 375 l 1
+ 250 375 l 1
+ 250 250 l 1
+ 188 250 l 1
+EndSplineSet
+EndChar
+
+StartChar: infinity
+Encoding: 8734 8734 383
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 104 0 625 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!&!<W<%!4,X8RfEEg##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!18OPjD#T[F%?jL2f?iU6."GQoQETH5%z8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+125 500 m 1
+ 125 625 l 1
+ 188 625 l 1
+ 188 500 l 1
+ 125 500 l 1
+250 500 m 1
+ 250 625 l 1
+ 312 625 l 1
+ 312 500 l 1
+ 250 500 l 1
+62 375 m 1
+ 62 500 l 1
+ 125 500 l 1
+ 125 375 l 1
+ 62 375 l 1
+188 375 m 1
+ 188 500 l 1
+ 250 500 l 1
+ 250 375 l 1
+ 188 375 l 1
+312 375 m 1
+ 312 500 l 1
+ 375 500 l 1
+ 375 375 l 1
+ 312 375 l 1
+125 250 m 1
+ 125 375 l 1
+ 188 375 l 1
+ 188 250 l 1
+ 125 250 l 1
+250 250 m 1
+ 250 375 l 1
+ 312 375 l 1
+ 312 250 l 1
+ 250 250 l 1
+EndSplineSet
+EndChar
+
+StartChar: logicaland
+Encoding: 8743 8743 384
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 104 0 625 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!&!<W<%!4,X8RfEEg##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!18OPjD#T[Cd@*i;#@/p?/!sSaRlFG!2z8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+188 500 m 1
+ 188 625 l 1
+ 250 625 l 1
+ 250 500 l 1
+ 188 500 l 1
+125 375 m 1
+ 125 500 l 1
+ 188 500 l 1
+ 188 375 l 1
+ 125 375 l 1
+250 375 m 1
+ 250 500 l 1
+ 312 500 l 1
+ 312 375 l 1
+ 250 375 l 1
+62 250 m 1
+ 62 375 l 1
+ 125 375 l 1
+ 125 250 l 1
+ 62 250 l 1
+312 250 m 1
+ 312 375 l 1
+ 375 375 l 1
+ 375 250 l 1
+ 312 250 l 1
+EndSplineSet
+EndChar
+
+StartChar: logicalor
+Encoding: 8744 8744 385
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 104 0 625 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!&!<W<%!4,X8RfEEg##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!18OPjD#T[Do@F/Bn?iU6."4dI#@^#'az8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+62 500 m 1
+ 62 625 l 1
+ 125 625 l 1
+ 125 500 l 1
+ 62 500 l 1
+312 500 m 1
+ 312 625 l 1
+ 375 625 l 1
+ 375 500 l 1
+ 312 500 l 1
+125 375 m 1
+ 125 500 l 1
+ 188 500 l 1
+ 188 375 l 1
+ 125 375 l 1
+250 375 m 1
+ 250 500 l 1
+ 312 500 l 1
+ 312 375 l 1
+ 250 375 l 1
+188 250 m 1
+ 188 375 l 1
+ 250 375 l 1
+ 250 250 l 1
+ 188 250 l 1
+EndSplineSet
+EndChar
+
+StartChar: intersection
+Encoding: 8745 8745 386
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 102 0 750 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!'!<W<%!&_P-2#mUV##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!/8OPjD#T[EZ?uUZ`"onqY!D0CCU[eBb!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+125 625 m 1
+ 125 750 l 1
+ 312 750 l 1
+ 312 625 l 1
+ 125 625 l 1
+62 500 m 1
+ 62 625 l 1
+ 125 625 l 1
+ 125 500 l 1
+ 62 500 l 1
+312 500 m 1
+ 312 625 l 1
+ 375 625 l 1
+ 375 500 l 1
+ 312 500 l 1
+62 375 m 1
+ 62 500 l 1
+ 125 500 l 1
+ 125 375 l 1
+ 62 375 l 1
+312 375 m 1
+ 312 500 l 1
+ 375 500 l 1
+ 375 375 l 1
+ 312 375 l 1
+62 250 m 1
+ 62 375 l 1
+ 125 375 l 1
+ 125 250 l 1
+ 62 250 l 1
+312 250 m 1
+ 312 375 l 1
+ 375 375 l 1
+ 375 250 l 1
+ 312 250 l 1
+62 125 m 1
+ 62 250 l 1
+ 125 250 l 1
+ 125 125 l 1
+ 62 125 l 1
+312 125 m 1
+ 312 250 l 1
+ 375 250 l 1
+ 375 125 l 1
+ 312 125 l 1
+EndSplineSet
+EndChar
+
+StartChar: union
+Encoding: 8746 8746 387
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 103 0 750 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!'!<W<%!&_P-2#mUV##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!08OPjD#T[Do@=UTN"pP&61]^1^"2R5&!!!!j78?7R6=>BF
+EndImage2
+Fore
+SplineSet
+62 625 m 1
+ 62 750 l 1
+ 125 750 l 1
+ 125 625 l 1
+ 62 625 l 1
+312 625 m 1
+ 312 750 l 1
+ 375 750 l 1
+ 375 625 l 1
+ 312 625 l 1
+62 500 m 1
+ 62 625 l 1
+ 125 625 l 1
+ 125 500 l 1
+ 62 500 l 1
+312 500 m 1
+ 312 625 l 1
+ 375 625 l 1
+ 375 500 l 1
+ 312 500 l 1
+62 375 m 1
+ 62 500 l 1
+ 125 500 l 1
+ 125 375 l 1
+ 62 375 l 1
+312 375 m 1
+ 312 500 l 1
+ 375 500 l 1
+ 375 375 l 1
+ 312 375 l 1
+62 250 m 1
+ 62 375 l 1
+ 125 375 l 1
+ 125 250 l 1
+ 62 250 l 1
+312 250 m 1
+ 312 375 l 1
+ 375 375 l 1
+ 375 250 l 1
+ 312 250 l 1
+125 125 m 1
+ 125 250 l 1
+ 312 250 l 1
+ 312 125 l 1
+ 125 125 l 1
+EndSplineSet
+EndChar
+
+StartChar: therefore
+Encoding: 8756 8756 388
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 104 0 875 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!(!<W<%!</M-O8o7\##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!18OPjD#T[D_!!30DFoa;t!V-4j*6hZPz8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+188 500 m 1
+ 188 625 l 1
+ 250 625 l 1
+ 250 500 l 1
+ 188 500 l 1
+62 250 m 1
+ 62 375 l 1
+ 125 375 l 1
+ 125 250 l 1
+ 62 250 l 1
+312 250 m 1
+ 312 375 l 1
+ 375 375 l 1
+ 375 250 l 1
+ 312 250 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2235
+Encoding: 8757 8757 389
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 104 0 875 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!(!<W<%!</M-O8o7\##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!18OPjD#T[D_!!3rZ('$&h!l=q;G!ASlz8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+62 500 m 1
+ 62 625 l 1
+ 125 625 l 1
+ 125 500 l 1
+ 62 500 l 1
+312 500 m 1
+ 312 625 l 1
+ 375 625 l 1
+ 375 500 l 1
+ 312 500 l 1
+188 250 m 1
+ 188 375 l 1
+ 250 375 l 1
+ 250 250 l 1
+ 188 250 l 1
+EndSplineSet
+EndChar
+
+StartChar: similar
+Encoding: 8764 8764 390
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 102 0 500 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!%!<W<%!-edY4obQ_##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!/8OPjD#T[D/@>J:k!WW<R!0-]B%I!im!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+125 375 m 1
+ 125 500 l 1
+ 250 500 l 1
+ 250 375 l 1
+ 125 375 l 1
+312 375 m 1
+ 312 500 l 1
+ 375 500 l 1
+ 375 375 l 1
+ 312 375 l 1
+62 250 m 1
+ 62 375 l 1
+ 125 375 l 1
+ 125 250 l 1
+ 62 250 l 1
+188 250 m 1
+ 188 375 l 1
+ 312 375 l 1
+ 312 250 l 1
+ 188 250 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni223D
+Encoding: 8765 8765 391
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 102 0 500 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!%!<W<%!-edY4obQ_##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!/8OPjD#T[E2?nc!h!WW=E!0*\Uj8o;]!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+62 375 m 1
+ 62 500 l 1
+ 125 500 l 1
+ 125 375 l 1
+ 62 375 l 1
+188 375 m 1
+ 188 500 l 1
+ 312 500 l 1
+ 312 375 l 1
+ 188 375 l 1
+125 250 m 1
+ 125 375 l 1
+ 250 375 l 1
+ 250 250 l 1
+ 125 250 l 1
+312 250 m 1
+ 312 375 l 1
+ 375 375 l 1
+ 375 250 l 1
+ 312 250 l 1
+EndSplineSet
+EndChar
+
+StartChar: congruent
+Encoding: 8773 8773 392
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 105 0 750 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!'!<W<%!&_P-2#mUV##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!28OPjD#T[D/@>J<!@&O*7!!l*rL!(VTL&_2R!(fUS7'8jaJcGcN
+EndImage2
+Fore
+SplineSet
+125 625 m 1
+ 125 750 l 1
+ 250 750 l 1
+ 250 625 l 1
+ 125 625 l 1
+312 625 m 1
+ 312 750 l 1
+ 375 750 l 1
+ 375 625 l 1
+ 312 625 l 1
+62 500 m 1
+ 62 625 l 1
+ 125 625 l 1
+ 125 500 l 1
+ 62 500 l 1
+188 500 m 1
+ 188 625 l 1
+ 312 625 l 1
+ 312 500 l 1
+ 188 500 l 1
+62 250 m 1
+ 62 375 l 1
+ 375 375 l 1
+ 375 250 l 1
+ 62 250 l 1
+62 0 m 1
+ 62 125 l 1
+ 375 125 l 1
+ 375 0 l 1
+ 62 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: approxequal
+Encoding: 8776 8776 393
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 104 0 750 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!'!<W<%!&_P-2#mUV##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!18OPjD#T[D/@>J<!?iZAj#AaDY0<$u$z8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+125 625 m 1
+ 125 750 l 1
+ 250 750 l 1
+ 250 625 l 1
+ 125 625 l 1
+312 625 m 1
+ 312 750 l 1
+ 375 750 l 1
+ 375 625 l 1
+ 312 625 l 1
+62 500 m 1
+ 62 625 l 1
+ 125 625 l 1
+ 125 500 l 1
+ 62 500 l 1
+188 500 m 1
+ 188 625 l 1
+ 312 625 l 1
+ 312 500 l 1
+ 188 500 l 1
+125 250 m 1
+ 125 375 l 1
+ 250 375 l 1
+ 250 250 l 1
+ 125 250 l 1
+312 250 m 1
+ 312 375 l 1
+ 375 375 l 1
+ 375 250 l 1
+ 312 250 l 1
+62 125 m 1
+ 62 250 l 1
+ 125 250 l 1
+ 125 125 l 1
+ 62 125 l 1
+188 125 m 1
+ 188 250 l 1
+ 312 250 l 1
+ 312 125 l 1
+ 188 125 l 1
+EndSplineSet
+EndChar
+
+StartChar: notequal
+Encoding: 8800 8800 394
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 106 0 750 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!'!<W<%!&_P-2#mUV##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!38OPjD#T[F5@&RKF!+H*9"ono+!AXQ.jDFqt!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+250 625 m 1
+ 250 750 l 1
+ 312 750 l 1
+ 312 625 l 1
+ 250 625 l 1
+62 500 m 1
+ 62 625 l 1
+ 375 625 l 1
+ 375 500 l 1
+ 62 500 l 1
+188 375 m 1
+ 188 500 l 1
+ 250 500 l 1
+ 250 375 l 1
+ 188 375 l 1
+62 250 m 1
+ 62 375 l 1
+ 375 375 l 1
+ 375 250 l 1
+ 62 250 l 1
+125 125 m 1
+ 125 250 l 1
+ 188 250 l 1
+ 188 125 l 1
+ 125 125 l 1
+EndSplineSet
+EndChar
+
+StartChar: equivalence
+Encoding: 8801 8801 395
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 102 0 750 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!'!<W<%!&_P-2#mUV##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!/8OPjD#T[ER@:3Jn@K6`p!HhKceER#6!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+62 625 m 1
+ 62 750 l 1
+ 375 750 l 1
+ 375 625 l 1
+ 62 625 l 1
+62 375 m 1
+ 62 500 l 1
+ 375 500 l 1
+ 375 375 l 1
+ 62 375 l 1
+62 125 m 1
+ 62 250 l 1
+ 375 250 l 1
+ 375 125 l 1
+ 62 125 l 1
+EndSplineSet
+EndChar
+
+StartChar: lessequal
+Encoding: 8804 8804 396
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 108 0 875 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!(!<W<%!</M-O8o7\##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!58OPjD#T[F5?k?^B!+HEB#)4#r"'P]L=s(78z8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+250 750 m 1
+ 250 875 l 1
+ 312 875 l 1
+ 312 750 l 1
+ 250 750 l 1
+188 625 m 1
+ 188 750 l 1
+ 250 750 l 1
+ 250 625 l 1
+ 188 625 l 1
+125 500 m 1
+ 125 625 l 1
+ 188 625 l 1
+ 188 500 l 1
+ 125 500 l 1
+188 375 m 1
+ 188 500 l 1
+ 250 500 l 1
+ 250 375 l 1
+ 188 375 l 1
+250 250 m 1
+ 250 375 l 1
+ 312 375 l 1
+ 312 250 l 1
+ 250 250 l 1
+62 0 m 1
+ 62 125 l 1
+ 375 125 l 1
+ 375 0 l 1
+ 62 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: greaterequal
+Encoding: 8805 8805 397
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 108 0 875 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!(!<W<%!</M-O8o7\##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!58OPjD#T[DO?k?`(!+H*9#)4#r">Tu=BJe[6z8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+125 750 m 1
+ 125 875 l 1
+ 188 875 l 1
+ 188 750 l 1
+ 125 750 l 1
+188 625 m 1
+ 188 750 l 1
+ 250 750 l 1
+ 250 625 l 1
+ 188 625 l 1
+250 500 m 1
+ 250 625 l 1
+ 312 625 l 1
+ 312 500 l 1
+ 250 500 l 1
+188 375 m 1
+ 188 500 l 1
+ 250 500 l 1
+ 250 375 l 1
+ 188 375 l 1
+125 250 m 1
+ 125 375 l 1
+ 188 375 l 1
+ 188 250 l 1
+ 125 250 l 1
+62 0 m 1
+ 62 125 l 1
+ 375 125 l 1
+ 375 0 l 1
+ 62 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: propersubset
+Encoding: 8834 8834 398
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 104 0 750 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!'!<W<%!&_P-2#mUV##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!18OPjD#T[EZ@;l36)[6KH#a>?MdDHD;z8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+125 625 m 1
+ 125 750 l 1
+ 375 750 l 1
+ 375 625 l 1
+ 125 625 l 1
+62 500 m 1
+ 62 625 l 1
+ 125 625 l 1
+ 125 500 l 1
+ 62 500 l 1
+62 375 m 1
+ 62 500 l 1
+ 125 500 l 1
+ 125 375 l 1
+ 62 375 l 1
+62 250 m 1
+ 62 375 l 1
+ 125 375 l 1
+ 125 250 l 1
+ 62 250 l 1
+125 125 m 1
+ 125 250 l 1
+ 375 250 l 1
+ 375 125 l 1
+ 125 125 l 1
+EndSplineSet
+EndChar
+
+StartChar: propersuperset
+Encoding: 8835 8835 399
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 104 0 750 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!'!<W<%!&_P-2#mUV##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!18OPjD#T[ER?sj#Q$3g\7#4MWk)$,TBz8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+62 625 m 1
+ 62 750 l 1
+ 312 750 l 1
+ 312 625 l 1
+ 62 625 l 1
+312 500 m 1
+ 312 625 l 1
+ 375 625 l 1
+ 375 500 l 1
+ 312 500 l 1
+312 375 m 1
+ 312 500 l 1
+ 375 500 l 1
+ 375 375 l 1
+ 312 375 l 1
+312 250 m 1
+ 312 375 l 1
+ 375 375 l 1
+ 375 250 l 1
+ 312 250 l 1
+62 125 m 1
+ 62 250 l 1
+ 312 250 l 1
+ 312 125 l 1
+ 62 125 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2300
+Encoding: 8960 8960 400
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 108 0 875 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!(!<W<%!</M-O8o7\##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!58OPjD#T[D_@Ba//@0g:4!R_GX$@W#djgp?"z8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+312 750 m 1
+ 312 875 l 1
+ 375 875 l 1
+ 375 750 l 1
+ 312 750 l 1
+125 625 m 1
+ 125 750 l 1
+ 312 750 l 1
+ 312 625 l 1
+ 125 625 l 1
+62 500 m 1
+ 62 625 l 1
+ 125 625 l 1
+ 125 500 l 1
+ 62 500 l 1
+250 500 m 1
+ 250 625 l 1
+ 375 625 l 1
+ 375 500 l 1
+ 250 500 l 1
+62 375 m 1
+ 62 500 l 1
+ 125 500 l 1
+ 125 375 l 1
+ 62 375 l 1
+188 375 m 1
+ 188 500 l 1
+ 250 500 l 1
+ 250 375 l 1
+ 188 375 l 1
+312 375 m 1
+ 312 500 l 1
+ 375 500 l 1
+ 375 375 l 1
+ 312 375 l 1
+62 250 m 1
+ 62 375 l 1
+ 188 375 l 1
+ 188 250 l 1
+ 62 250 l 1
+312 250 m 1
+ 312 375 l 1
+ 375 375 l 1
+ 375 250 l 1
+ 312 250 l 1
+125 125 m 1
+ 125 250 l 1
+ 312 250 l 1
+ 312 125 l 1
+ 125 125 l 1
+62 0 m 1
+ 62 125 l 1
+ 125 125 l 1
+ 125 0 l 1
+ 62 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: house
+Encoding: 8962 8962 401
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 106 0 750 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!'!<W<%!&_P-2#mUV##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!38OPjD#T[Cd@*i;#!Q#`Z"onkK!Bm.k(Q\Us!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+188 625 m 1
+ 188 750 l 1
+ 250 750 l 1
+ 250 625 l 1
+ 188 625 l 1
+125 500 m 1
+ 125 625 l 1
+ 188 625 l 1
+ 188 500 l 1
+ 125 500 l 1
+250 500 m 1
+ 250 625 l 1
+ 312 625 l 1
+ 312 500 l 1
+ 250 500 l 1
+62 375 m 1
+ 62 500 l 1
+ 125 500 l 1
+ 125 375 l 1
+ 62 375 l 1
+312 375 m 1
+ 312 500 l 1
+ 375 500 l 1
+ 375 375 l 1
+ 312 375 l 1
+62 250 m 1
+ 62 375 l 1
+ 125 375 l 1
+ 125 250 l 1
+ 62 250 l 1
+312 250 m 1
+ 312 375 l 1
+ 375 375 l 1
+ 375 250 l 1
+ 312 250 l 1
+62 125 m 1
+ 62 250 l 1
+ 375 250 l 1
+ 375 125 l 1
+ 62 125 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2303
+Encoding: 8963 8963 402
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 104 0 875 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!(!<W<%!</M-O8o7\##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!18OPjD#T[Cd@*i;#@=SCZ"Sr+H6`,rMz8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+188 750 m 1
+ 188 875 l 1
+ 250 875 l 1
+ 250 750 l 1
+ 188 750 l 1
+125 625 m 1
+ 125 750 l 1
+ 188 750 l 1
+ 188 625 l 1
+ 125 625 l 1
+250 625 m 1
+ 250 750 l 1
+ 312 750 l 1
+ 312 625 l 1
+ 250 625 l 1
+62 500 m 1
+ 62 625 l 1
+ 125 625 l 1
+ 125 500 l 1
+ 62 500 l 1
+312 500 m 1
+ 312 625 l 1
+ 375 625 l 1
+ 375 500 l 1
+ 312 500 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2304
+Encoding: 8964 8964 403
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 104 0 875 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!(!<W<%!</M-O8o7\##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!18OPjD#T[D_J-$Mk%0ch5!U9Z5YVslSz8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+62 250 m 1
+ 62 375 l 1
+ 125 375 l 1
+ 125 250 l 1
+ 62 250 l 1
+312 250 m 1
+ 312 375 l 1
+ 375 375 l 1
+ 375 250 l 1
+ 312 250 l 1
+125 125 m 1
+ 125 250 l 1
+ 188 250 l 1
+ 188 125 l 1
+ 125 125 l 1
+250 125 m 1
+ 250 250 l 1
+ 312 250 l 1
+ 312 125 l 1
+ 250 125 l 1
+188 0 m 1
+ 188 125 l 1
+ 250 125 l 1
+ 250 0 l 1
+ 188 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2318
+Encoding: 8984 8984 404
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 106 0 750 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!'!<W<%!&_P-2#mUV##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!38OPjD#T[Er@AmV]!9+t&"oo+^!VoO79Rm*C!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+62 625 m 1
+ 62 750 l 1
+ 188 750 l 1
+ 188 625 l 1
+ 62 625 l 1
+250 625 m 1
+ 250 750 l 1
+ 375 750 l 1
+ 375 625 l 1
+ 250 625 l 1
+62 500 m 1
+ 62 625 l 1
+ 375 625 l 1
+ 375 500 l 1
+ 62 500 l 1
+125 375 m 1
+ 125 500 l 1
+ 188 500 l 1
+ 188 375 l 1
+ 125 375 l 1
+250 375 m 1
+ 250 500 l 1
+ 312 500 l 1
+ 312 375 l 1
+ 250 375 l 1
+62 250 m 1
+ 62 375 l 1
+ 375 375 l 1
+ 375 250 l 1
+ 62 250 l 1
+62 125 m 1
+ 62 250 l 1
+ 188 250 l 1
+ 188 125 l 1
+ 62 125 l 1
+250 125 m 1
+ 250 250 l 1
+ 375 250 l 1
+ 375 125 l 1
+ 250 125 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni231A
+Encoding: 8986 8986 405
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 107 0 875 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!(!<W<%!</M-O8o7\##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!48OPjD#T[EZ@'F#E!Q#NnD#jVG@KGk#b(Npu!!!!j78?7R6=>BF
+EndImage2
+Fore
+SplineSet
+125 750 m 1
+ 125 875 l 1
+ 312 875 l 1
+ 312 750 l 1
+ 125 750 l 1
+125 625 m 1
+ 125 750 l 1
+ 312 750 l 1
+ 312 625 l 1
+ 125 625 l 1
+62 500 m 1
+ 62 625 l 1
+ 125 625 l 1
+ 125 500 l 1
+ 62 500 l 1
+188 500 m 1
+ 188 625 l 1
+ 250 625 l 1
+ 250 500 l 1
+ 188 500 l 1
+312 500 m 1
+ 312 625 l 1
+ 375 625 l 1
+ 375 500 l 1
+ 312 500 l 1
+62 375 m 1
+ 62 500 l 1
+ 125 500 l 1
+ 125 375 l 1
+ 62 375 l 1
+188 375 m 1
+ 188 500 l 1
+ 250 500 l 1
+ 250 375 l 1
+ 188 375 l 1
+312 375 m 1
+ 312 500 l 1
+ 375 500 l 1
+ 375 375 l 1
+ 312 375 l 1
+62 250 m 1
+ 62 375 l 1
+ 188 375 l 1
+ 188 250 l 1
+ 62 250 l 1
+312 250 m 1
+ 312 375 l 1
+ 375 375 l 1
+ 375 250 l 1
+ 312 250 l 1
+125 125 m 1
+ 125 250 l 1
+ 312 250 l 1
+ 312 125 l 1
+ 125 125 l 1
+125 0 m 1
+ 125 125 l 1
+ 312 125 l 1
+ 312 0 l 1
+ 125 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni231B
+Encoding: 8987 8987 406
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 108 0 875 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!(!<W<%!</M-O8o7\##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!58OPjD#T[ER@0g;g?k<<I(PWh.%Gh-Uk]9Bsz8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+62 750 m 1
+ 62 875 l 1
+ 375 875 l 1
+ 375 750 l 1
+ 62 750 l 1
+62 625 m 1
+ 62 750 l 1
+ 125 750 l 1
+ 125 625 l 1
+ 62 625 l 1
+188 625 m 1
+ 188 750 l 1
+ 250 750 l 1
+ 250 625 l 1
+ 188 625 l 1
+312 625 m 1
+ 312 750 l 1
+ 375 750 l 1
+ 375 625 l 1
+ 312 625 l 1
+125 500 m 1
+ 125 625 l 1
+ 188 625 l 1
+ 188 500 l 1
+ 125 500 l 1
+250 500 m 1
+ 250 625 l 1
+ 312 625 l 1
+ 312 500 l 1
+ 250 500 l 1
+188 375 m 1
+ 188 500 l 1
+ 250 500 l 1
+ 250 375 l 1
+ 188 375 l 1
+125 250 m 1
+ 125 375 l 1
+ 188 375 l 1
+ 188 250 l 1
+ 125 250 l 1
+250 250 m 1
+ 250 375 l 1
+ 312 375 l 1
+ 312 250 l 1
+ 250 250 l 1
+62 125 m 1
+ 62 250 l 1
+ 125 250 l 1
+ 125 125 l 1
+ 62 125 l 1
+312 125 m 1
+ 312 250 l 1
+ 375 250 l 1
+ 375 125 l 1
+ 312 125 l 1
+62 0 m 1
+ 62 125 l 1
+ 375 125 l 1
+ 375 0 l 1
+ 62 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2326
+Encoding: 8998 8998 407
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 107 0 750 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!'!<W<%!&_P-2#mUV##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!48OPjD#T[FM_/P*:&J4tM?iU0IU'*QNO%b?0!!!!j78?7R6=>BF
+EndImage2
+Fore
+SplineSet
+0 625 m 1
+ 0 750 l 1
+ 312 750 l 1
+ 312 625 l 1
+ 0 625 l 1
+0 500 m 1
+ 0 625 l 1
+ 125 625 l 1
+ 125 500 l 1
+ 0 500 l 1
+188 500 m 1
+ 188 625 l 1
+ 250 625 l 1
+ 250 500 l 1
+ 188 500 l 1
+312 500 m 1
+ 312 625 l 1
+ 375 625 l 1
+ 375 500 l 1
+ 312 500 l 1
+0 375 m 1
+ 0 500 l 1
+ 62 500 l 1
+ 62 375 l 1
+ 0 375 l 1
+125 375 m 1
+ 125 500 l 1
+ 188 500 l 1
+ 188 375 l 1
+ 125 375 l 1
+375 375 m 1
+ 375 500 l 1
+ 438 500 l 1
+ 438 375 l 1
+ 375 375 l 1
+0 250 m 1
+ 0 375 l 1
+ 125 375 l 1
+ 125 250 l 1
+ 0 250 l 1
+188 250 m 1
+ 188 375 l 1
+ 250 375 l 1
+ 250 250 l 1
+ 188 250 l 1
+312 250 m 1
+ 312 375 l 1
+ 375 375 l 1
+ 375 250 l 1
+ 312 250 l 1
+0 125 m 1
+ 0 250 l 1
+ 312 250 l 1
+ 312 125 l 1
+ 0 125 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni232B
+Encoding: 9003 9003 408
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 106 0 750 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!'!<W<%!&_P-2#mUV##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!38OPjD#T[EZ@gHT.!b+4q"oo%r!ODuN5h>u9!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+125 625 m 1
+ 125 750 l 1
+ 438 750 l 1
+ 438 625 l 1
+ 125 625 l 1
+62 500 m 1
+ 62 625 l 1
+ 125 625 l 1
+ 125 500 l 1
+ 62 500 l 1
+188 500 m 1
+ 188 625 l 1
+ 250 625 l 1
+ 250 500 l 1
+ 188 500 l 1
+312 500 m 1
+ 312 625 l 1
+ 438 625 l 1
+ 438 500 l 1
+ 312 500 l 1
+0 375 m 1
+ 0 500 l 1
+ 62 500 l 1
+ 62 375 l 1
+ 0 375 l 1
+250 375 m 1
+ 250 500 l 1
+ 312 500 l 1
+ 312 375 l 1
+ 250 375 l 1
+375 375 m 1
+ 375 500 l 1
+ 438 500 l 1
+ 438 375 l 1
+ 375 375 l 1
+62 250 m 1
+ 62 375 l 1
+ 125 375 l 1
+ 125 250 l 1
+ 62 250 l 1
+188 250 m 1
+ 188 375 l 1
+ 250 375 l 1
+ 250 250 l 1
+ 188 250 l 1
+312 250 m 1
+ 312 375 l 1
+ 438 375 l 1
+ 438 250 l 1
+ 312 250 l 1
+125 125 m 1
+ 125 250 l 1
+ 438 250 l 1
+ 438 125 l 1
+ 125 125 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni23CE
+Encoding: 9166 9166 409
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 110 0 875 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!(!<W<%!</M-O8o7\##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!78OPjD#T[F5A'e\`@VB5L@o-Q@!!!Hn!Rl?jnIP[#!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+250 750 m 1
+ 250 875 l 1
+ 438 875 l 1
+ 438 750 l 1
+ 250 750 l 1
+125 625 m 1
+ 125 750 l 1
+ 188 750 l 1
+ 188 625 l 1
+ 125 625 l 1
+250 625 m 1
+ 250 750 l 1
+ 312 750 l 1
+ 312 625 l 1
+ 250 625 l 1
+375 625 m 1
+ 375 750 l 1
+ 438 750 l 1
+ 438 625 l 1
+ 375 625 l 1
+62 500 m 1
+ 62 625 l 1
+ 312 625 l 1
+ 312 500 l 1
+ 62 500 l 1
+375 500 m 1
+ 375 625 l 1
+ 438 625 l 1
+ 438 500 l 1
+ 375 500 l 1
+0 375 m 1
+ 0 500 l 1
+ 62 500 l 1
+ 62 375 l 1
+ 0 375 l 1
+375 375 m 1
+ 375 500 l 1
+ 438 500 l 1
+ 438 375 l 1
+ 375 375 l 1
+62 250 m 1
+ 62 375 l 1
+ 438 375 l 1
+ 438 250 l 1
+ 62 250 l 1
+125 125 m 1
+ 125 250 l 1
+ 188 250 l 1
+ 188 125 l 1
+ 125 125 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni23CF
+Encoding: 9167 9167 410
+Width: 438
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 106 0 750 125 125
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!'!<W<%!&_P-2#mUV##Ium7K<DfJ:N/ZbgVgW!!!%A;GL-j
+5j$^2!!!!38OPjD#T[Cd@'F%;@:0)p)?:$K!PRuWAUXUZ!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+188 625 m 1
+ 188 750 l 1
+ 250 750 l 1
+ 250 625 l 1
+ 188 625 l 1
+125 500 m 1
+ 125 625 l 1
+ 312 625 l 1
+ 312 500 l 1
+ 125 500 l 1
+62 375 m 1
+ 62 500 l 1
+ 375 500 l 1
+ 375 375 l 1
+ 62 375 l 1
+62 125 m 1
+ 62 250 l 1
+ 375 250 l 1
+ 375 125 l 1
+ 62 125 l 1
+62 0 m 1
+ 62 125 l 1
+ 375 125 l 1
+ 375 0 l 1
+ 62 0 l 1
 EndSplineSet
 EndChar
 EndChars
