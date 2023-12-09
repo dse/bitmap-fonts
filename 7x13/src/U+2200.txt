@@ -1,0 +1,3841 @@
+# Mathematical Operators U+2200 U+22FF
+STARTCHAR U+2200 FOR ALL
+|       |
+|       |
+^       ^
+|       |
+| #   # |
+| ##### |
+|  # #  |
+|  # #  |
+|   #   |
+|   #   |
++       +
+|       |
+|       |
+ENDCHAR
+# STARTCHAR U+2201 COMPLEMENT
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2202 PARTIAL DIFFERENTIAL
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+STARTCHAR U+2203 THERE EXISTS
+|       |
+|       |
+^       ^
+|       |
+| ##### |
+|     # |
+| ##### |
+|     # |
+| ##### |
+|       |
++       +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+2204 THERE DOES NOT EXIST
+|       |
+|       |
+^       ^
+|    #  |
+| ##### |
+|   # # |
+| ##### |
+|  #  # |
+| ##### |
+| #     |
++       +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+2205 EMPTY SET
+|       |
+|       |
+^       ^
+|      #|
+|  #### |
+| #  ## |
+| # # # |
+| ##  # |
+| ####  |
+|#      |
++       +
+|       |
+|       |
+ENDCHAR
+# STARTCHAR U+2206 INCREMENT
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2207 NABLA
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+STARTCHAR U+2208 ELEMENT OF
+|       |
+|       |
+^       ^
+|       |
+|  #### |
+| #     |
+| ##### |
+| #     |
+|  #### |
+|       |
++       +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+2209 NOT AN ELEMENT OF
+|       |
+|       |
+^       ^
+|     # |
+|  #### |
+| #  #  |
+| ##### |
+| # #   |
+|  #### |
+|  #    |
++       +
+|       |
+|       |
+ENDCHAR
+# STARTCHAR U+220A SMALL ELEMENT OF
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+STARTCHAR U+220B CONTAINS AS MEMBER
+|       |
+|       |
+^       ^
+|       |
+| ####  |
+|     # |
+| ##### |
+|     # |
+| ####  |
+|       |
++       +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+220C DOES NOT CONTAIN AS MEMBER
+|       |
+|       |
+^       ^
+| #     |
+| ####  |
+|  #  # |
+| ##### |
+|   # # |
+| ####  |
+|    #  |
++       +
+|       |
+|       |
+ENDCHAR
+# STARTCHAR U+220D SMALL CONTAINS AS MEMBER
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+STARTCHAR U+220E END OF PROOF
+|       |
+|       |
+^       ^
+|       |
+| ##### |
+| ##### |
+| ##### |
+| ##### |
+| ##### |
+|       |
++       +
+|       |
+|       |
+ENDCHAR
+# STARTCHAR U+220F N-ARY PRODUCT
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2210 N-ARY COPRODUCT
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2211 N-ARY SUMMATION
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+STARTCHAR U+2212 MINUS SIGN
+|       |
+|       |
+^       ^
+|       |
+|       |
+|       |
+| ##### |
+|       |
+|       |
+|       |
++       +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+2213 MINUS-OR-PLUS SIGN
+|       |
+|       |
+^       ^
+| ##### |
+|       |
+|   #   |
+|   #   |
+| ##### |
+|   #   |
+|   #   |
++       +
+|       |
+|       |
+ENDCHAR
+# STARTCHAR U+2214 DOT PLUS
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2215 DIVISION SLASH
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2216 SET MINUS
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+STARTCHAR U+2217 ASTERISK OPERATOR
+|       |
+|       |
+^       ^
+|   #   |
+| # # # |
+|  ###  |
+|   #   |
+|  ###  |
+| # # # |
+|   #   |
++       +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+2218 RING OPERATOR
+|       |
+|       |
+^       ^
+|       |
+|       |
+|   #   |
+|  # #  |
+|   #   |
+|       |
+|       |
++       +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+2219 BULLET OPERATOR
+|       |
+|       |
+^       ^
+|       |
+|       |
+|   #   |
+|  ###  |
+|   #   |
+|       |
+|       |
++       +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+221A SQUARE ROOT
+|       |
+|       |
+^     # ^
+|     # |
+|     # |
+|    #  |
+|    #  |
+|  # #  |
+| ###   |
+|   #   |
++   #   +
+|       |
+|       |
+ENDCHAR
+# STARTCHAR U+221B CUBE ROOT
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+221C FOURTH ROOT
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+221D PROPORTIONAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+STARTCHAR U+221E INFINITY
+|       |
+|       |
+^       ^
+|       |
+|       |
+| ## ## |
+|#  #  #|
+| ## ## |
+|       |
+|       |
++       +
+|       |
+|       |
+ENDCHAR
+# STARTCHAR U+221F RIGHT ANGLE
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2220 ANGLE
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2221 MEASURED ANGLE
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2222 SPHERICAL ANGLE
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+STARTCHAR U+2223 DIVIDES
+|       |
+|       |
+^   #   ^
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
++   #   +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+2224 DOES NOT DIVIDE
+|       |
+|       |
+^   #   ^
+|   #   |
+|   # # |
+|   ##  |
+|   #   |
+|  ##   |
+| # #   |
+|   #   |
++   #   +
+|       |
+|       |
+ENDCHAR
+# STARTCHAR U+2225 PARALLEL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2226 NOT PARALLEL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+STARTCHAR U+2227 LOGICAL AND
+|       |
+|       |
+^       ^
+|       |
+|       |
+|   #   |
+|  # #  |
+| #   # |
+|       |
+|       |
++       +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+2228 LOGICAL OR
+|       |
+|       |
+^       ^
+|       |
+|       |
+| #   # |
+|  # #  |
+|   #   |
+|       |
+|       |
++       +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+2229 INTERSECTION
+|       |
+|       |
+^       ^
+|       |
+|  ###  |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
+|       |
++       +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+222A UNION
+|       |
+|       |
+^       ^
+|       |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
+|  ###  |
+|       |
++       +
+|       |
+|       |
+ENDCHAR
+# STARTCHAR U+222B INTEGRAL
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+222C DOUBLE INTEGRAL
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+222D TRIPLE INTEGRAL
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+222E CONTOUR INTEGRAL
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+222F SURFACE INTEGRAL
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2230 VOLUME INTEGRAL
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2231 CLOCKWISE INTEGRAL
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2232 CLOCKWISE CONTOUR INTEGRAL
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2233 ANTICLOCKWISE CONTOUR INTEGRAL
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+STARTCHAR U+2234 THEREFORE
+|       |
+|       |
+^       ^
+|       |
+|   #   |
+|       |
+|       |
+|       |
+| #   # |
+|       |
++       +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+2235 BECAUSE
+|       |
+|       |
+^       ^
+|       |
+| #   # |
+|       |
+|       |
+|       |
+|   #   |
+|       |
++       +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+2236 RATIO
+|       |
+|       |
+^       ^
+|       |
+|   #   |
+|       |
+|       |
+|       |
+|   #   |
+|       |
++       +
+|       |
+|       |
+ENDCHAR
+# STARTCHAR U+2237 PROPORTION
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2238 DOT MINUS
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2239 EXCESS
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+223A GEOMETRIC PROPORTION
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+223B HOMOTHETIC
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+223C TILDE OPERATOR
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+223D REVERSED TILDE
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+223E INVERTED LAZY S
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+223F SINE WAVE
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2240 WREATH PRODUCT
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2241 NOT TILDE
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2242 MINUS TILDE
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2243 ASYMPTOTICALLY EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2244 NOT ASYMPTOTICALLY EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+STARTCHAR U+2245 APPROXIMATELY EQUAL TO
+|       |
+|       |
+^       ^
+|  #  # |
+| # # # |
+| #  #  |
+|       |
+| ##### |
+|       |
+| ##### |
++       +
+|       |
+|       |
+ENDCHAR
+# STARTCHAR U+2246 APPROXIMATELY BUT NOT ACTUALLY EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2247 NEITHER APPROXIMATELY NOR ACTUALLY EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2248 ALMOST EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2249 NOT ALMOST EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+224A ALMOST EQUAL OR EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+224B TRIPLE TILDE
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+224C ALL EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+224D EQUIVALENT TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+224E GEOMETRICALLY EQUIVALENT TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+224F DIFFERENCE BETWEEN
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2250 APPROACHES THE LIMIT
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2251 GEOMETRICALLY EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2252 APPROXIMATELY EQUAL TO OR THE IMAGE OF
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2253 IMAGE OF OR APPROXIMATELY EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2254 COLON EQUALS
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2255 EQUALS COLON
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2256 RING IN EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2257 RING EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2258 CORRESPONDS TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2259 ESTIMATES
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+225A EQUIANGULAR TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+225B STAR EQUALS
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+225C DELTA EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+225D EQUAL TO BY DEFINITION
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+225E MEASURED BY
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+225F QUESTIONED EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2260 NOT EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2261 IDENTICAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2262 NOT IDENTICAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2263 STRICTLY EQUIVALENT TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+STARTCHAR U+2264 LESS-THAN OR EQUAL TO
+|       |
+|       |
+^    #  ^
+|   #   |
+|  #    |
+| #     |
+|  #    |
+|   #   |
+|    #  |
+|       |
++ ####  +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+2265 GREATER-THAN OR EQUAL TO
+|       |
+|       |
+^  #    ^
+|   #   |
+|    #  |
+|     # |
+|    #  |
+|   #   |
+|  #    |
+|       |
++  #### +
+|       |
+|       |
+ENDCHAR
+# STARTCHAR U+2266 LESS-THAN OVER EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2267 GREATER-THAN OVER EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2268 LESS-THAN BUT NOT EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2269 GREATER-THAN BUT NOT EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+226A MUCH LESS-THAN
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+226B MUCH GREATER-THAN
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+226C BETWEEN
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+226D NOT EQUIVALENT TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+226E NOT LESS-THAN
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+226F NOT GREATER-THAN
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2270 NEITHER LESS-THAN NOR EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2271 NEITHER GREATER-THAN NOR EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2272 LESS-THAN OR EQUIVALENT TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2273 GREATER-THAN OR EQUIVALENT TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2274 NEITHER LESS-THAN NOR EQUIVALENT TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2275 NEITHER GREATER-THAN NOR EQUIVALENT TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2276 LESS-THAN OR GREATER-THAN
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2277 GREATER-THAN OR LESS-THAN
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2278 NEITHER LESS-THAN NOR GREATER-THAN
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2279 NEITHER GREATER-THAN NOR LESS-THAN
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+227A PRECEDES
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+227B SUCCEEDS
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+227C PRECEDES OR EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+227D SUCCEEDS OR EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+227E PRECEDES OR EQUIVALENT TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+227F SUCCEEDS OR EQUIVALENT TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2280 DOES NOT PRECEDE
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2281 DOES NOT SUCCEED
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+STARTCHAR U+2282 SUBSET OF
+|       |
+|       |
+^       ^
+|       |
+|  #### |
+| #     |
+| #     |
+| #     |
+|  #### |
+|       |
++       +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+2283 SUPERSET OF
+|       |
+|       |
+^       ^
+|       |
+| ####  |
+|     # |
+|     # |
+|     # |
+| ####  |
+|       |
++       +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+2284 NOT A SUBSET OF
+|       |
+|       |
+^       ^
+|      #|
+|  #### |
+| #  #  |
+| # #   |
+| ##    |
+| ##### |
+|#      |
++       +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+2285 NOT A SUPERSET OF
+|       |
+|       |
+^       ^
+|      #|
+| ##### |
+|    ## |
+|   # # |
+|  #  # |
+| ####  |
+|#      |
++       +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+2286 SUBSET OF OR EQUAL TO
+|       |
+|       |
+^       ^
+|  #### |
+| #     |
+| #     |
+| #     |
+|  #### |
+|       |
+| ##### |
++       +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+2287 SUPERSET OF OR EQUAL TO
+|       |
+|       |
+^       ^
+| ####  |
+|     # |
+|     # |
+|     # |
+| ####  |
+|       |
+| ##### |
++       +
+|       |
+|       |
+ENDCHAR
+# STARTCHAR U+2288 NEITHER A SUBSET OF NOR EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2289 NEITHER A SUPERSET OF NOR EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+228A SUBSET OF WITH NOT EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+228B SUPERSET OF WITH NOT EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+228C MULTISET
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+228D MULTISET MULTIPLICATION
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+228E MULTISET UNION
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+228F SQUARE IMAGE OF
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2290 SQUARE ORIGINAL OF
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2291 SQUARE IMAGE OF OR EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2292 SQUARE ORIGINAL OF OR EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2293 SQUARE CAP
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2294 SQUARE CUP
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2295 CIRCLED PLUS
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2296 CIRCLED MINUS
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2297 CIRCLED TIMES
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2298 CIRCLED DIVISION SLASH
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+2299 CIRCLED DOT OPERATOR
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+229A CIRCLED RING OPERATOR
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+229B CIRCLED ASTERISK OPERATOR
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+229C CIRCLED EQUALS
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+229D CIRCLED DASH
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+229E SQUARED PLUS
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+229F SQUARED MINUS
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22A0 SQUARED TIMES
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22A1 SQUARED DOT OPERATOR
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22A2 RIGHT TACK
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22A3 LEFT TACK
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22A4 DOWN TACK
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22A5 UP TACK
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22A6 ASSERTION
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22A7 MODELS
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22A8 TRUE
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22A9 FORCES
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22AA TRIPLE VERTICAL BAR RIGHT TURNSTILE
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22AB DOUBLE VERTICAL BAR DOUBLE RIGHT TURNSTILE
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22AC DOES NOT PROVE
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22AD NOT TRUE
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22AE DOES NOT FORCE
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22AF NEGATED DOUBLE VERTICAL BAR DOUBLE RIGHT TURNSTILE
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22B0 PRECEDES UNDER RELATION
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22B1 SUCCEEDS UNDER RELATION
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22B2 NORMAL SUBGROUP OF
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22B3 CONTAINS AS NORMAL SUBGROUP
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22B4 NORMAL SUBGROUP OF OR EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22B5 CONTAINS AS NORMAL SUBGROUP OR EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22B6 ORIGINAL OF
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22B7 IMAGE OF
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22B8 MULTIMAP
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22B9 HERMITIAN CONJUGATE MATRIX
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22BA INTERCALATE
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+STARTCHAR U+22BB XOR
+|       |
+|       |
+^       ^
+|       |
+| #   # |
+|  # #  |
+|   #   |
+|       |
+| ##### |
+|       |
++       +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+22BC NAND
+|       |
+|       |
+^       ^
+|       |
+| ##### |
+|       |
+|   #   |
+|  # #  |
+| #   # |
+|       |
++       +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+22BD NOR
+|       |
+|       |
+^       ^
+|       |
+| ##### |
+|       |
+| #   # |
+|  # #  |
+|   #   |
+|       |
++       +
+|       |
+|       |
+ENDCHAR
+# STARTCHAR U+22BE RIGHT ANGLE WITH ARC
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22BF RIGHT TRIANGLE
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22C0 N-ARY LOGICAL AND
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22C1 N-ARY LOGICAL OR
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22C2 N-ARY INTERSECTION
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22C3 N-ARY UNION
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22C4 DIAMOND OPERATOR
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22C5 DOT OPERATOR
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22C6 STAR OPERATOR
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22C7 DIVISION TIMES
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22C8 BOWTIE
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22C9 LEFT NORMAL FACTOR SEMIDIRECT PRODUCT
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22CA RIGHT NORMAL FACTOR SEMIDIRECT PRODUCT
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22CB LEFT SEMIDIRECT PRODUCT
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22CC RIGHT SEMIDIRECT PRODUCT
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22CD REVERSED TILDE EQUALS
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22CE CURLY LOGICAL OR
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22CF CURLY LOGICAL AND
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22D0 DOUBLE SUBSET
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22D1 DOUBLE SUPERSET
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22D2 DOUBLE INTERSECTION
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22D3 DOUBLE UNION
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22D4 PITCHFORK
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22D5 EQUAL AND PARALLEL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22D6 LESS-THAN WITH DOT
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22D7 GREATER-THAN WITH DOT
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22D8 VERY MUCH LESS-THAN
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22D9 VERY MUCH GREATER-THAN
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22DA LESS-THAN EQUAL TO OR GREATER-THAN
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22DB GREATER-THAN EQUAL TO OR LESS-THAN
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22DC EQUAL TO OR LESS-THAN
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22DD EQUAL TO OR GREATER-THAN
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22DE EQUAL TO OR PRECEDES
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22DF EQUAL TO OR SUCCEEDS
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22E0 DOES NOT PRECEDE OR EQUAL
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22E1 DOES NOT SUCCEED OR EQUAL
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22E2 NOT SQUARE IMAGE OF OR EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22E3 NOT SQUARE ORIGINAL OF OR EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22E4 SQUARE IMAGE OF OR NOT EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22E5 SQUARE ORIGINAL OF OR NOT EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22E6 LESS-THAN BUT NOT EQUIVALENT TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22E7 GREATER-THAN BUT NOT EQUIVALENT TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22E8 PRECEDES BUT NOT EQUIVALENT TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22E9 SUCCEEDS BUT NOT EQUIVALENT TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22EA NOT NORMAL SUBGROUP OF
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22EB DOES NOT CONTAIN AS NORMAL SUBGROUP
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22EC NOT NORMAL SUBGROUP OF OR EQUAL TO
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22ED DOES NOT CONTAIN AS NORMAL SUBGROUP OR EQUAL
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+STARTCHAR U+22EE VERTICAL ELLIPSIS
+|       |
+|       |
+^       ^
+|   #   |
+|       |
+|       |
+|   #   |
+|       |
+|       |
+|   #   |
++       +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+22EF MIDLINE HORIZONTAL ELLIPSIS
+|       |
+|       |
+^       ^
+|       |
+|       |
+|       |
+| # # # |
+|       |
+|       |
+|       |
++       +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+22F0 UP RIGHT DIAGONAL ELLIPSIS
+|       |
+|       |
+^       ^
+|     # |
+|       |
+|       |
+|   #   |
+|       |
+|       |
+| #     |
++       +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+22F1 DOWN RIGHT DIAGONAL ELLIPSIS
+|       |
+|       |
+^       ^
+| #     |
+|       |
+|       |
+|   #   |
+|       |
+|       |
+|     # |
++       +
+|       |
+|       |
+ENDCHAR
+# STARTCHAR U+22F2 ELEMENT OF WITH LONG HORIZONTAL STROKE
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22F3 ELEMENT OF WITH VERTICAL BAR AT END OF HORIZONTAL STROKE
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22F4 SMALL ELEMENT OF WITH VERTICAL BAR AT END OF HORIZONTAL STROKE
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22F5 ELEMENT OF WITH DOT ABOVE
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22F6 ELEMENT OF WITH OVERBAR
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22F7 SMALL ELEMENT OF WITH OVERBAR
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22F8 ELEMENT OF WITH UNDERBAR
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22F9 ELEMENT OF WITH TWO HORIZONTAL STROKES
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22FA CONTAINS WITH LONG HORIZONTAL STROKE
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22FB CONTAINS WITH VERTICAL BAR AT END OF HORIZONTAL STROKE
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22FC SMALL CONTAINS WITH VERTICAL BAR AT END OF HORIZONTAL STROKE
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22FD CONTAINS WITH OVERBAR
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22FE SMALL CONTAINS WITH OVERBAR
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
+# STARTCHAR U+22FF Z NOTATION BAG MEMBERSHIP
+# |       |
+# |       |
+# ^       ^
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# |       |
+# +       +
+# |       |
+# |       |
+# ENDCHAR
