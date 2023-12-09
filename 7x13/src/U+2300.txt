@@ -1859,21 +1859,21 @@ ENDCHAR
 # |       |
 # |       |
 # ENDCHAR
-# STARTCHAR U+237C RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW
-# |       |
-# |       |
-# ^       ^
-# |       |
-# |       |
-# |       |
-# |       |
-# |       |
-# |       |
-# |       |
-# +       +
-# |       |
-# |       |
-# ENDCHAR
+STARTCHAR U+237C RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW
+|  # #  |
+|  ##   |
+^  #    ^
+| ##    |
+|# #    |
+| ##    |
+|  #    |
+|  ##   |
+|  # #  |
+|  ##   |
++# #####+
+|##     |
+|###    |
+ENDCHAR
 # STARTCHAR U+237D SHOULDERED OPEN BOX
 # |       |
 # |       |
