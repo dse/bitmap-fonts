@@ -1,0 +1,960 @@
+STARTCHAR U+0410 CYRILLIC CAPITAL LETTER A
+|       |
+|       |
+|   #   |
+|  # #  |
+| #   # |
+| #   # |
+| #   # |
+| ##### |
+| #   # |
+| #   # |
++ #   # +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+0411 CYRILLIC CAPITAL LETTER BE
+|       |
+|       |
+^ ##### ^
+| #     |
+| #     |
+| #     |
+| ####  |
+| #   # |
+| #   # |
+| #   # |
++ ####  +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+0412 CYRILLIC CAPITAL LETTER VE
+|       |
+|       |
+^ ####  ^
+| #   # |
+| #   # |
+| #   # |
+| ####  |
+| #   # |
+| #   # |
+| #   # |
++ ####  +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+0413 CYRILLIC CAPITAL LETTER GHE
+|       |
+|       |
+| ##### |
+| #     |
+| #     |
+| #     |
+| #     |
+| #     |
+| #     |
+| #     |
++ #     +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+0414 CYRILLIC CAPITAL LETTER DE
+|       |
+|       |
+|  #### |
+|  #  # |
+|  #  # |
+|  #  # |
+|  #  # |
+|  #  # |
+|  #  # |
+|  #  # |
++ ##### +
+| #   # |
+|       |
+ENDCHAR
+STARTCHAR U+0415 CYRILLIC CAPITAL LETTER IE
+|       |
+|       |
+| ##### |
+| #     |
+| #     |
+| #     |
+| ####  |
+| #     |
+| #     |
+| #     |
++ ##### +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+0416 CYRILLIC CAPITAL LETTER ZHE
+|       |
+|       |
+| # # # |
+| # # # |
+|  ###  |
+|   #   |
+|   #   |
+|  ###  |
+| # # # |
+| # # # |
++ # # # +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+0417 CYRILLIC CAPITAL LETTER ZE
+|       |
+|       |
+|  ###  |
+| #   # |
+|     # |
+|     # |
+|  ###  |
+|     # |
+|     # |
+| #   # |
++  ###  +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+0418 CYRILLIC CAPITAL LETTER I
+|       |
+|       |
+| #   # |
+| #   # |
+| #   # |
+| #  ## |
+| # # # |
+| ##  # |
+| #   # |
+| #   # |
++ #   # +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+0419 CYRILLIC CAPITAL LETTER SHORT I
+| #   # |
+|  ###  |
+|       |
+| #   # |
+| #   # |
+| ##  # |
+| # # # |
+| #  ## |
+| #   # |
+| #   # |
++ #   # +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+041A CYRILLIC CAPITAL LETTER KA
+|       |
+|       |
+| #   # |
+| #   # |
+| #  #  |
+| # #   |
+| ##    |
+| # #   |
+| #  #  |
+| #   # |
++ #   # +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+041B CYRILLIC CAPITAL LETTER EL
+|       |
+|       |
+|  #### |
+|  #  # |
+|  #  # |
+|  #  # |
+|  #  # |
+|  #  # |
+|  #  # |
+|  #  # |
++ #   # +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+041C CYRILLIC CAPITAL LETTER EM
+|       |
+|       |
+| #   # |
+| ## ## |
+| # # # |
+| # # # |
+| # # # |
+| #   # |
+| #   # |
+| #   # |
++ #   # +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+041D CYRILLIC CAPITAL LETTER EN
+|       |
+|       |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
+| ##### |
+| #   # |
+| #   # |
+| #   # |
++ #   # +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+041E CYRILLIC CAPITAL LETTER O
+|       |
+|       |
+|  ###  |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
++  ###  +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+041F CYRILLIC CAPITAL LETTER PE
+|       |
+|       |
+| ##### |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
++ #   # +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+0420 CYRILLIC CAPITAL LETTER ER
+|       |
+|       |
+| ####  |
+| #   # |
+| #   # |
+| #   # |
+| ####  |
+| #     |
+| #     |
+| #     |
++ #     +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+0421 CYRILLIC CAPITAL LETTER ES
+|       |
+|       |
+|  ###  |
+| #   # |
+| #     |
+| #     |
+| #     |
+| #     |
+| #     |
+| #   # |
++  ###  +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+0422 CYRILLIC CAPITAL LETTER TE
+|       |
+|       |
+| ##### |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
++   #   +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+0423 CYRILLIC CAPITAL LETTER U
+|       |
+|       |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
+|  #### |
+|     # |
+|     # |
+|     # |
++ ####  +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+0424 CYRILLIC CAPITAL LETTER EF
+|       |
+|       |
+|   #   |
+|   #   |
+|  ###  |
+| # # # |
+| # # # |
+| # # # |
+|  ###  |
+|   #   |
++   #   +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+0425 CYRILLIC CAPITAL LETTER HA
+|       |
+|       |
+| #   # |
+| #   # |
+| #   # |
+|  # #  |
+|   #   |
+|  # #  |
+| #   # |
+| #   # |
++ #   # +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+0426 CYRILLIC CAPITAL LETTER TSE
+|       |
+|       |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
++ ##### +
+|     # |
+|       |
+ENDCHAR
+STARTCHAR U+0427 CYRILLIC CAPITAL LETTER CHE
+|       |
+|       |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
+|  #### |
+|     # |
+|     # |
+|     # |
++     # +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+0428 CYRILLIC CAPITAL LETTER SHA
+|       |
+|       |
+| # # # |
+| # # # |
+| # # # |
+| # # # |
+| # # # |
+| # # # |
+| # # # |
+| # # # |
++ ##### +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+0429 CYRILLIC CAPITAL LETTER SHCHA
+|       |
+|       |
+| # # # |
+| # # # |
+| # # # |
+| # # # |
+| # # # |
+| # # # |
+| # # # |
+| # # # |
++ ##### +
+|     # |
+|       |
+ENDCHAR
+STARTCHAR U+042A CYRILLIC CAPITAL LETTER HARD SIGN
+|       |
+|       |
+| ##    |
+|  #    |
+|  #    |
+|  #    |
+|  ###  |
+|  #  # |
+|  #  # |
+|  #  # |
++  ###  +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+042B CYRILLIC CAPITAL LETTER YERU
+|       |
+|       |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
+| ##  # |
+| # # # |
+| # # # |
+| # # # |
++ ##  # +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+042C CYRILLIC CAPITAL LETTER SOFT SIGN
+|       |
+|       |
+| #     |
+| #     |
+| #     |
+| #     |
+| ####  |
+| #   # |
+| #   # |
+| #   # |
++ ####  +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+042D CYRILLIC CAPITAL LETTER E
+|       |
+|       |
+|  ###  |
+| #   # |
+|     # |
+|     # |
+|  #### |
+|     # |
+|     # |
+| #   # |
++  ###  +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+042E CYRILLIC CAPITAL LETTER YU
+|       |
+|       |
+| #  #  |
+| # # # |
+| # # # |
+| # # # |
+| ### # |
+| # # # |
+| # # # |
+| # # # |
++ #  #  +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+042F CYRILLIC CAPITAL LETTER YA
+|       |
+|       |
+|  #### |
+| #   # |
+| #   # |
+| #   # |
+|  #### |
+|    ## |
+|   # # |
+|  #  # |
++ #   # +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+0430 CYRILLIC SMALL LETTER A
+|       |
+|       |
+|       |
+|       |
+| ####  |
+|     # |
+|     # |
+|  #### |
+| #   # |
+| #   # |
++  #### +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+0431 CYRILLIC SMALL LETTER BE
+|       |
+|       |
+|  #### |
+| #     |
+| #     |
+| ####  |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
++  ###  +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+0432 CYRILLIC SMALL LETTER VE
+|       |
+|       |
+|       |
+|       |
+| ####  |
+| #   # |
+| #   # |
+| ####  |
+| #   # |
+| #   # |
++ ####  +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+0433 CYRILLIC SMALL LETTER GHE
+|       |
+|       |
+|       |
+|       |
+| ##### |
+| #     |
+| #     |
+| #     |
+| #     |
+| #     |
++ #     +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+0434 CYRILLIC SMALL LETTER DE
+|       |
+|       |
+|       |
+|       |
+|  #### |
+|  #  # |
+|  #  # |
+|  #  # |
+|  #  # |
+|  #  # |
++ ##### +
+| #   # |
+|       |
+ENDCHAR
+STARTCHAR U+0435 CYRILLIC SMALL LETTER IE
+|       |
+|       |
+|       |
+|       |
+|  ###  |
+| #   # |
+| #   # |
+| ##### |
+| #     |
+| #     |
++  #### +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+0436 CYRILLIC SMALL LETTER ZHE
+|       |
+|       |
+|       |
+|       |
+| # # # |
+| # # # |
+|  ###  |
+|  ###  |
+| # # # |
+| # # # |
++ # # # +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+0437 CYRILLIC SMALL LETTER ZE
+|       |
+|       |
+|       |
+|       |
+|  ###  |
+| #   # |
+|     # |
+|  ###  |
+|     # |
+| #   # |
++  ###  +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+0438 CYRILLIC SMALL LETTER I
+|       |
+|       |
+|       |
+|       |
+| #   # |
+| #   # |
+| #  ## |
+| # # # |
+| ##  # |
+| #   # |
++ #   # +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+0439 CYRILLIC SMALL LETTER SHORT I
+|       |
+| #   # |
+|  ###  |
+|       |
+| #   # |
+| #   # |
+| #  ## |
+| # # # |
+| ##  # |
+| #   # |
++ #   # +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+043A CYRILLIC SMALL LETTER KA
+|       |
+|       |
+|       |
+|       |
+| #   # |
+| #  #  |
+| # #   |
+| ##    |
+| # #   |
+| #  #  |
++ #   # +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+043B CYRILLIC SMALL LETTER EL
+|       |
+|       |
+|       |
+|       |
+|  #### |
+|  #  # |
+|  #  # |
+|  #  # |
+|  #  # |
+|  #  # |
++ #   # +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+043C CYRILLIC SMALL LETTER EM
+|       |
+|       |
+|       |
+|       |
+| #   # |
+| ## ## |
+| # # # |
+| # # # |
+| #   # |
+| #   # |
++ #   # +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+043D CYRILLIC SMALL LETTER EN
+|       |
+|       |
+|       |
+|       |
+| #   # |
+| #   # |
+| #   # |
+| ##### |
+| #   # |
+| #   # |
++ #   # +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+043E CYRILLIC SMALL LETTER O
+|       |
+|       |
+|       |
+|       |
+|  ###  |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
++  ###  +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+043F CYRILLIC SMALL LETTER PE
+|       |
+|       |
+|       |
+|       |
+| ##### |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
++ #   # +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+0440 CYRILLIC SMALL LETTER ER
+|       |
+|       |
+|       |
+|       |
+| ####  |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
+| ####  |
++ #     +
+| #     |
+| #     |
+ENDCHAR
+STARTCHAR U+0441 CYRILLIC SMALL LETTER ES
+|       |
+|       |
+|       |
+|       |
+|  #### |
+| #     |
+| #     |
+| #     |
+| #     |
+| #     |
++  #### +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+0442 CYRILLIC SMALL LETTER TE
+|       |
+|       |
+|       |
+|       |
+| ##### |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
+|   #   |
++   #   +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+0443 CYRILLIC SMALL LETTER U
+|       |
+|       |
+|       |
+|       |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
+|  #### |
++     # +
+|     # |
+| ####  |
+ENDCHAR
+STARTCHAR U+0444 CYRILLIC SMALL LETTER EF
+|       |
+|       |
+|   #   |
+|   #   |
+|   #   |
+|  ###  |
+| # # # |
+| # # # |
+| # # # |
+|  ###  |
++   #   +
+|   #   |
+|   #   |
+ENDCHAR
+STARTCHAR U+0445 CYRILLIC SMALL LETTER HA
+|       |
+|       |
+|       |
+|       |
+| #   # |
+| #   # |
+|  # #  |
+|   #   |
+|  # #  |
+| #   # |
++ #   # +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+0446 CYRILLIC SMALL LETTER TSE
+|       |
+|       |
+|       |
+|       |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
++ ##### +
+|     # |
+|       |
+ENDCHAR
+STARTCHAR U+0447 CYRILLIC SMALL LETTER CHE
+|       |
+|       |
+|       |
+|       |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
+| #   # |
+|  #### |
++     # +
+|     # |
+|     # |
+ENDCHAR
+STARTCHAR U+0448 CYRILLIC SMALL LETTER SHA
+|       |
+|       |
+|       |
+|       |
+| # # # |
+| # # # |
+| # # # |
+| # # # |
+| # # # |
+| # # # |
++ ##### +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+0449 CYRILLIC SMALL LETTER SHCHA
+|       |
+|       |
+|       |
+|       |
+| # # # |
+| # # # |
+| # # # |
+| # # # |
+| # # # |
+| # # # |
++ ##### +
+|     # |
+|       |
+ENDCHAR
+STARTCHAR U+044A CYRILLIC SMALL LETTER HARD SIGN
+|       |
+|       |
+|       |
+|       |
+| ##    |
+|  #    |
+|  #    |
+|  ###  |
+|  #  # |
+|  #  # |
++  ###  +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+044B CYRILLIC SMALL LETTER YERU
+|       |
+|       |
+|       |
+|       |
+| #   # |
+| #   # |
+| #   # |
+| ##  # |
+| # # # |
+| # # # |
++ ##  # +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+044C CYRILLIC SMALL LETTER SOFT SIGN
+|       |
+|       |
+|       |
+|       |
+| #     |
+| #     |
+| #     |
+| ####  |
+| #   # |
+| #   # |
++ ####  +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+044D CYRILLIC SMALL LETTER E
+|       |
+|       |
+|       |
+|       |
+| ####  |
+|     # |
+|     # |
+|  #### |
+|     # |
+|     # |
++ ####  +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+044E CYRILLIC SMALL LETTER YU
+|       |
+|       |
+|       |
+|       |
+| #  #  |
+| # # # |
+| # # # |
+| ### # |
+| # # # |
+| # # # |
++ #  #  +
+|       |
+|       |
+ENDCHAR
+STARTCHAR U+044F CYRILLIC SMALL LETTER YA
+|       |
+|       |
+|       |
+|       |
+|  #### |
+| #   # |
+| #   # |
+|  #### |
+|   # # |
+|  #  # |
++ #   # +
+|       |
+|       |
+ENDCHAR
