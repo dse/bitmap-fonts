@@ -1,14 +1,14 @@
 STARTFONT 2.1
 COMMENT ======================================================================
-COMMENT     This font is Copyright (C) 1993 by Darren S. Embry.
+COMMENT Copyright (C) 1993-2024 by Darren Embry
 COMMENT 
-COMMENT     You may make modifications to this font as you wish, as long as
-COMMENT     you document those changes and this notice is not removed.
+COMMENT Distributed under the terms of the SIL Open Font License 1.1
+COMMENT (SIL OFL-1.1) https://opensource.org/license/ofl-1-1/
 COMMENT ======================================================================
-FONT -dse-cantontypewriter-medium-r-normal--18-128-100-100-c-120-iso8859-1
+FONT -dse-cantontypewriter-medium-r-normal--18-128-100-100-c-120-iso10646-1
 SIZE 24 75 75
 FONTBOUNDINGBOX 10 18 0 -4
-STARTPROPERTIES 20
+STARTPROPERTIES 19
 FONTNAME_REGISTRY ""
 FOUNDRY "dse"
 FAMILY_NAME "cantontypewriter"
@@ -27,8 +27,7 @@ CHARSET_ENCODING "1"
 DEFAULT_CHAR 32
 FONT_DESCENT 4
 FONT_ASCENT 13
-COPYRIGHT "Copyright (C) 1993 by Darren S. Embry."
-_XMBDFED_INFO "Edited with xmbdfed 4.5."
+COPYRIGHT "Copyright (C) 1993-2024 Darren Embry."
 ENDPROPERTIES
 CHARS 239
 STARTCHAR SF040000
