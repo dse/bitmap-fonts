@@ -5,7 +5,7 @@ COMMENT
 COMMENT Distributed under the terms of the SIL Open Font License 1.1
 COMMENT (SIL OFL-1.1) https://opensource.org/license/ofl-1-1/
 COMMENT ======================================================================
-FONT -dse-cantontypewriter-medium-r-normal--18-130-100-100-c-72-iso8859-1
+FONT -dse-cantontypewriter-medium-r-normal--18-130-100-100-c-72-iso10646-1
 SIZE 13 100 100
 FONTBOUNDINGBOX 10 18 0 -4
 STARTPROPERTIES 19
@@ -20,9 +20,9 @@ PIXEL_SIZE 18
 POINT_SIZE 130
 RESOLUTION_X 100
 RESOLUTION_Y 100
-SPACING "C"
+SPACING "c"
 AVERAGE_WIDTH 72
-CHARSET_REGISTRY "ISO8859"
+CHARSET_REGISTRY "iso10646"
 CHARSET_ENCODING "1"
 DEFAULT_CHAR 32
 FONT_DESCENT 4
