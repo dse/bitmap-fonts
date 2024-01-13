@@ -8,6 +8,8 @@ COMMENT ======================================================================
 FONT -dse-cantontypewriter-medium-r-normal--18-130-100-100-c-72-iso10646-1
 SIZE 13 100 100
 FONTBOUNDINGBOX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
 STARTPROPERTIES 18
 FOUNDRY "dse"
 FAMILY_NAME "cantontypewriter"
