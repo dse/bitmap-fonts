@@ -1,8 +1,8 @@
 SRC_FONTS  := $(wildcard src/*.font.txt)
 SRC_CHARS  := $(wildcard src/*.chars.txt)
-BDFS       := $(patsubst src/%.font.txt,bdf/%.bdf,$(SRC_FONTS))
-TTFS       := $(patsubst src/%.font.txt,ttf/%.ttf,$(SRC_FONTS))
-SFDS       := $(patsubst src/%.font.txt,sfd/%.sfd,$(SRC_FONTS))
+BDFS       := $(patsubst src/%.font.txt,dist/bdf/%.bdf,$(SRC_FONTS))
+TTFS       := $(patsubst src/%.font.txt,dist/ttf/%.ttf,$(SRC_FONTS))
+SFDS       := $(patsubst src/%.font.txt,dits/sfd/%.sfd,$(SRC_FONTS))
 BDFBDF := ~/git/dse.d/perl-font-bitmap/bin/bdfbdf
 BDFBDF_OPTIONS :=
 BITMAPFONT2TTF := bitmapfont2ttf
@@ -13,15 +13,15 @@ TARGETS := $(BDFS) $(TTFS) $(SFDS)
 default: $(TARGETS)
 sfd: $(SFDS)
 
-bdf/%.bdf: src/%.font.txt Makefile
+dist/bdf/%.bdf: src/%.font.txt Makefile
 	mkdir -p bdf || true
 	$(BDFBDF) $(BDFBDF_OPTIONS) $< > $@.tmp.bdf
 	mv $@.tmp.bdf $@
-sfd/%.sfd: bdf/%.bdf Makefile
+dist/sfd/%.sfd: bdf/%.bdf Makefile
 	mkdir -p sfd || true
 	$(BITMAPFONT2TTF) $(BITMAPFONT2TTF_OPTIONS) $< $@.tmp.sfd
 	mv $@.tmp.sfd $@
-ttf/%.ttf: bdf/%.bdf Makefile
+dist/ttf/%.ttf: bdf/%.bdf Makefile
 	mkdir -p ttf || true
 	$(BITMAPFONT2TTF) $(BITMAPFONT2TTF_OPTIONS) $< $@.tmp.ttf
 	mv $@.tmp.ttf $@
