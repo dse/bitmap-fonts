@@ -175,10 +175,10 @@ U+002C COMMA
 |       |
 |       |
 |       |
-|   #   |
-|   #   |
-+  #    +
 |       |
+|   #   |
++   #   +
+|  #    |
 |       |
 U+002D HYPHEN-MINUS
 |       |
@@ -371,8 +371,8 @@ U+003A COLON
 |   #   |
 |       |
 |       |
-|   #   |
 |       |
+|   #   |
 +       +
 |       |
 |       |
@@ -385,10 +385,10 @@ U+003B SEMICOLON
 |   #   |
 |       |
 |       |
-|   #   |
-|   #   |
-+  #    +
 |       |
+|   #   |
++   #   +
+|  #    |
 |       |
 U+003C LESS-THAN SIGN
 |       |
@@ -1274,17 +1274,17 @@ U+007A LATIN SMALL LETTER Z
 |       |
 U+007B LEFT CURLY BRACKET (OPENING CURLY BRACKET)
 |       |
-|   ### |
-^  ##   ^
+|    ## |
+^   #   ^
 |  ##   |
 |  ##   |
+|  #    |
+| #     |
+|  #    |
 |  ##   |
-| ##    |
 |  ##   |
-|  ##   |
-|  ##   |
-+  ##   +
-|   ### |
++   #   +
+|    ## |
 |       |
 U+007C VERTICAL LINE (VERTICAL BAR)
 |   #   |
@@ -1302,17 +1302,17 @@ U+007C VERTICAL LINE (VERTICAL BAR)
 |   #   |
 U+007D RIGHT CURLY BRACKET (CLOSING CURLY BRACKET)
 |       |
-| ###   |
-^   ##  ^
+| ##    |
+^   #   ^
 |   ##  |
 |   ##  |
+|    #  |
+|     # |
+|    #  |
 |   ##  |
-|    ## |
 |   ##  |
-|   ##  |
-|   ##  |
-+   ##  +
-| ###   |
++   #   +
+| ##    |
 |       |
 U+007E TILDE
 |       |
@@ -2335,7 +2335,7 @@ U+00E7 LATIN SMALL LETTER C WITH CEDILLA (LATIN SMALL LETTER C CEDILLA)
 | #     |
 +  #### +
 |    #  |
-|       |
+|  ##   |
 U+00E8 LATIN SMALL LETTER E WITH GRAVE (LATIN SMALL LETTER E GRAVE)
 |       |
 |  #    |
@@ -2822,9 +2822,9 @@ U+201A SINGLE LOW-9 QUOTATION MARK (LOW SINGLE COMMA QUOTATION MARK)
 |       |
 |       |
 |       |
-|       |
-+   #   +
 |   #   |
++   #   +
+|  #    |
 |       |
 U+201B SINGLE HIGH-REVERSED-9 QUOTATION MARK (SINGLE REVERSED COMMA QUOTATION MARK)
 |       |
@@ -2878,9 +2878,9 @@ U+201E DOUBLE LOW-9 QUOTATION MARK (LOW DOUBLE COMMA QUOTATION MARK)
 |       |
 |       |
 |       |
-|       |
-+  #  # +
 |  #  # |
++  #  # +
+| #  #  |
 |       |
 U+201F DOUBLE HIGH-REVERSED-9 QUOTATION MARK (DOUBLE REVERSED COMMA QUOTATION MARK)
 |       |
@@ -3133,7 +3133,7 @@ U+2038 CARET
 |       |
 +   #   +
 |  # #  |
-|       |
+| #   # |
 U+2039 SINGLE LEFT-POINTING ANGLE QUOTATION MARK (LEFT POINTING SINGLE GUILLEMET)
 |       |
 |       |
@@ -3259,7 +3259,7 @@ U+2041 CARET INSERTION POINT
 |    #  |
 +   #   +
 |  # #  |
-|       |
+| #   # |
 U+2042 ASTERISM
 |   #   |
 |  ###  |
@@ -3452,9 +3452,9 @@ U+204F REVERSED SEMICOLON
 |       |
 |       |
 |       |
-|       |
-+   #   +
 |   #   |
++   #   +
+|    #  |
 |       |
 U+2050 CLOSE UP
 |       |
@@ -4023,7 +4023,7 @@ U+2598 QUADRANT UPPER LEFT
 |###    |
 |####   |
 |###    |
-|## #   |
+|####   |
 |       |
 |       |
 |       |
