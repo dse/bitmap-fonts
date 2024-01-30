@@ -1,0 +1,82 @@
+#!/usr/bin/env perl
+use warnings;
+use strict;
+use JSON::XS;
+
+our $JSON = JSON::XS->new()->pretty(1);
+
+sub find_index (&@);
+
+# normalize the dse bitmap font format
+
+if (scalar @ARGV < 4) {
+    die("not enough arguments\n");
+}
+
+my ($width, $ascent, $descent, $cap) = @ARGV;
+splice(@ARGV, 0, 4);
+
+our $blank = ' ' x $width;
+
+my @data;
+while (<>) {
+    if (/^\s*([+|^])(.*?)(?:([+|^])\s*)$/) {
+        push(@data, [$1, $2, $3 // $1]);
+    } else {
+        normalize();
+        print;
+    }
+}
+normalize();
+
+sub normalize {
+    return if !scalar @data;
+    my $baseline = (find_index { $_->[0] eq '+' } @data) // (scalar @data - 1);
+    foreach my $data (@data) {
+        if (length($data->[1]) < $width) {
+            $data->[1] = sprintf("%-*s", $width, $data->[1]);
+        } elsif (length($data->[1]) > $width) {
+            $data->[1] = substr($data->[1], 0, $width);
+        }
+        $data->[1] =~ s{.}{($& eq '.' || $& eq ' ') ? ' ' : '#'}ge;
+    }
+    my @ascending_lines = @data;
+    my @descending_lines = splice(@ascending_lines, $baseline + 1);
+    if (scalar @ascending_lines > $ascent) {
+        splice(@ascending_lines, 0, scalar @ascending_lines - $ascent);
+    } else {
+        my $count = $ascent - scalar @ascending_lines;
+        for (my $i = 0; $i < $count; $i += 1) {
+            unshift(@ascending_lines, [' ', $blank, ' ']);
+        }
+    }
+    if (scalar @descending_lines > $descent) {
+        splice(@descending_lines, scalar @descending_lines - $descent);
+    } else {
+        my $count = $descent - scalar @descending_lines;
+        for (my $i = 0; $i < $count; $i += 1) {
+            push(@descending_lines, [' ', $blank, ' ']);
+        }
+    }
+    for (my $i = 0; $i < scalar @ascending_lines; $i += 1) {
+        my $char = ($i == (scalar @ascending_lines - $cap)) ? '^' : ($i == (scalar @ascending_lines - 1)) ? '+' : '|';
+        $ascending_lines[$i]->[0] = $ascending_lines[$i]->[2] = $char;
+    }
+    for (my $i = 0; $i < scalar @descending_lines; $i += 1) {
+        $descending_lines[$i]->[0] = $descending_lines[$i]->[2] = '|';
+    }
+    foreach my $line (@ascending_lines, @descending_lines) {
+        print(join('', @$line) . "\n");
+    }
+    @data = ();
+}
+
+sub find_index (&@) {
+    my ($sub, @arrays) = @_;
+    for (my $i = 0; $i < scalar @arrays; $i += 1) {
+        local $_ = $arrays[$i];
+        my $result = &$sub;
+        return $i if $result;
+    }
+    return -1;
+}
