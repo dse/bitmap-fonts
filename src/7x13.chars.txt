@@ -949,6 +949,7 @@ U+0063 LATIN SMALL LETTER C
 | #     |
 +  #### +
 |       |
+|       |
 U+0064 LATIN SMALL LETTER D
 |       |
 |       |
@@ -2124,6 +2125,7 @@ U+00D8 LATIN CAPITAL LETTER O WITH STROKE (LATIN CAPITAL LETTER O SLASH)
 |##   # |
 +  ###  +
 |       |
+|       |
 U+00D9 LATIN CAPITAL LETTER U WITH GRAVE (LATIN CAPITAL LETTER U GRAVE)
 |  #    |
 |   #   |
@@ -2333,6 +2335,7 @@ U+00E7 LATIN SMALL LETTER C WITH CEDILLA (LATIN SMALL LETTER C CEDILLA)
 | #     |
 +  #### +
 |    #  |
+|       |
 U+00E8 LATIN SMALL LETTER E WITH GRAVE (LATIN SMALL LETTER E GRAVE)
 |       |
 |  #    |
@@ -2570,6 +2573,7 @@ U+00F8 LATIN SMALL LETTER O WITH STROKE (LATIN SMALL LETTER O SLASH)
 | #   # |
 +# ###  +
 |       |
+|       |
 U+00F9 LATIN SMALL LETTER U WITH GRAVE (LATIN SMALL LETTER U GRAVE)
 |       |
 |  #    |
@@ -2681,6 +2685,7 @@ U+2010 HYPHEN
 |       |
 +       +
 |       |
+|       |
 U+2011 NON-BREAKING HYPHEN
 |       |
 |       |
@@ -2693,6 +2698,7 @@ U+2011 NON-BREAKING HYPHEN
 |       |
 |       |
 +       +
+|       |
 |       |
 U+2012 FIGURE DASH
 |       |
@@ -2707,6 +2713,7 @@ U+2012 FIGURE DASH
 |       |
 +       +
 |       |
+|       |
 U+2013 EN DASH
 |       |
 |       |
@@ -2719,6 +2726,7 @@ U+2013 EN DASH
 |       |
 |       |
 +       +
+|       |
 |       |
 U+2014 EM DASH
 |       |
@@ -2733,6 +2741,7 @@ U+2014 EM DASH
 |       |
 +       +
 |       |
+|       |
 U+2015 HORIZONTAL BAR (QUOTATION DASH)
 |       |
 |       |
@@ -2745,6 +2754,7 @@ U+2015 HORIZONTAL BAR (QUOTATION DASH)
 |       |
 |       |
 +       +
+|       |
 |       |
 U+2016 DOUBLE VERTICAL LINE (DOUBLE VERTICAL BAR)
 |       |
@@ -2759,6 +2769,7 @@ U+2016 DOUBLE VERTICAL LINE (DOUBLE VERTICAL BAR)
 |  # #  |
 +  # #  +
 |  # #  |
+|       |
 U+2017 DOUBLE LOW LINE (SPACING DOUBLE UNDERSCORE)
 |       |
 |       |
@@ -2772,6 +2783,7 @@ U+2017 DOUBLE LOW LINE (SPACING DOUBLE UNDERSCORE)
 | ##### |
 +       +
 | ##### |
+|       |
 U+2018 LEFT SINGLE QUOTATION MARK (SINGLE TURNED COMMA QUOTATION MARK)
 |       |
 |       |
@@ -2784,6 +2796,7 @@ U+2018 LEFT SINGLE QUOTATION MARK (SINGLE TURNED COMMA QUOTATION MARK)
 |       |
 |       |
 +       +
+|       |
 |       |
 U+2019 RIGHT SINGLE QUOTATION MARK (SINGLE COMMA QUOTATION MARK)
 |       |
@@ -2798,6 +2811,7 @@ U+2019 RIGHT SINGLE QUOTATION MARK (SINGLE COMMA QUOTATION MARK)
 |       |
 +       +
 |       |
+|       |
 U+201A SINGLE LOW-9 QUOTATION MARK (LOW SINGLE COMMA QUOTATION MARK)
 |       |
 |       |
@@ -2811,6 +2825,7 @@ U+201A SINGLE LOW-9 QUOTATION MARK (LOW SINGLE COMMA QUOTATION MARK)
 |       |
 +   #   +
 |   #   |
+|       |
 U+201B SINGLE HIGH-REVERSED-9 QUOTATION MARK (SINGLE REVERSED COMMA QUOTATION MARK)
 |       |
 |       |
@@ -2823,6 +2838,7 @@ U+201B SINGLE HIGH-REVERSED-9 QUOTATION MARK (SINGLE REVERSED COMMA QUOTATION MA
 |       |
 |       |
 +       +
+|       |
 |       |
 U+201C LEFT DOUBLE QUOTATION MARK (DOUBLE TURNED COMMA QUOTATION MARK)
 |       |
@@ -2837,6 +2853,7 @@ U+201C LEFT DOUBLE QUOTATION MARK (DOUBLE TURNED COMMA QUOTATION MARK)
 |       |
 +       +
 |       |
+|       |
 U+201D RIGHT DOUBLE QUOTATION MARK (DOUBLE COMMA QUOTATION MARK)
 |       |
 |       |
@@ -2849,6 +2866,7 @@ U+201D RIGHT DOUBLE QUOTATION MARK (DOUBLE COMMA QUOTATION MARK)
 |       |
 |       |
 +       +
+|       |
 |       |
 U+201E DOUBLE LOW-9 QUOTATION MARK (LOW DOUBLE COMMA QUOTATION MARK)
 |       |
@@ -2863,6 +2881,7 @@ U+201E DOUBLE LOW-9 QUOTATION MARK (LOW DOUBLE COMMA QUOTATION MARK)
 |       |
 +  #  # +
 |  #  # |
+|       |
 U+201F DOUBLE HIGH-REVERSED-9 QUOTATION MARK (DOUBLE REVERSED COMMA QUOTATION MARK)
 |       |
 |       |
@@ -2875,6 +2894,7 @@ U+201F DOUBLE HIGH-REVERSED-9 QUOTATION MARK (DOUBLE REVERSED COMMA QUOTATION MA
 |       |
 |       |
 +       +
+|       |
 |       |
 U+2020 DAGGER
 |       |
@@ -2889,6 +2909,7 @@ U+2020 DAGGER
 |   #   |
 +   #   +
 |   #   |
+|       |
 U+2021 DOUBLE DAGGER
 |       |
 |   #   |
@@ -2902,6 +2923,7 @@ U+2021 DOUBLE DAGGER
 |   #   |
 +   #   +
 |   #   |
+|       |
 U+2022 BULLET
 |       |
 |       |
@@ -2914,6 +2936,7 @@ U+2022 BULLET
 |  ###  |
 |       |
 +       +
+|       |
 |       |
 U+2023 TRIANGULAR BULLET
 |       |
@@ -2928,6 +2951,7 @@ U+2023 TRIANGULAR BULLET
 |       |
 +       +
 |       |
+|       |
 U+2024 ONE DOT LEADER
 |       |
 |       |
@@ -2940,6 +2964,7 @@ U+2024 ONE DOT LEADER
 |       |
 |       |
 +   #   +
+|       |
 |       |
 U+2025 TWO DOT LEADER
 |       |
@@ -2954,6 +2979,7 @@ U+2025 TWO DOT LEADER
 |       |
 + #  #  +
 |       |
+|       |
 U+2026 HORIZONTAL ELLIPSIS
 |       |
 |       |
@@ -2967,6 +2993,7 @@ U+2026 HORIZONTAL ELLIPSIS
 |       |
 + # # # +
 |       |
+|       |
 U+2027 HYPHENATION POINT
 |       |
 |       |
@@ -2979,6 +3006,7 @@ U+2027 HYPHENATION POINT
 |       |
 |       |
 +       +
+|       |
 |       |
 U+2030 PER MILLE SIGN
 |       |
@@ -3021,6 +3049,7 @@ U+2032 PRIME
 |       |
 +       +
 |       |
+|       |
 U+2033 DOUBLE PRIME
 |       |
 |       |
@@ -3033,6 +3062,7 @@ U+2033 DOUBLE PRIME
 |       |
 |       |
 +       +
+|       |
 |       |
 U+2034 TRIPLE PRIME
 |       |
@@ -3047,6 +3077,7 @@ U+2034 TRIPLE PRIME
 |       |
 +       +
 |       |
+|       |
 U+2035 REVERSED PRIME
 |       |
 |       |
@@ -3059,6 +3090,7 @@ U+2035 REVERSED PRIME
 |       |
 |       |
 +       +
+|       |
 |       |
 U+2036 REVERSED DOUBLE PRIME
 |       |
@@ -3073,6 +3105,7 @@ U+2036 REVERSED DOUBLE PRIME
 |       |
 +       +
 |       |
+|       |
 U+2037 REVERSED TRIPLE PRIME
 |       |
 |       |
@@ -3085,6 +3118,7 @@ U+2037 REVERSED TRIPLE PRIME
 |       |
 |       |
 +       +
+|       |
 |       |
 U+2038 CARET
 |       |
@@ -3099,6 +3133,7 @@ U+2038 CARET
 |       |
 +   #   +
 |  # #  |
+|       |
 U+2039 SINGLE LEFT-POINTING ANGLE QUOTATION MARK (LEFT POINTING SINGLE GUILLEMET)
 |       |
 |       |
@@ -3112,6 +3147,7 @@ U+2039 SINGLE LEFT-POINTING ANGLE QUOTATION MARK (LEFT POINTING SINGLE GUILLEMET
 |    #  |
 +       +
 |       |
+|       |
 U+203A SINGLE RIGHT-POINTING ANGLE QUOTATION MARK (RIGHT POINTING SINGLE GUILLEMET)
 |       |
 |       |
@@ -3124,6 +3160,7 @@ U+203A SINGLE RIGHT-POINTING ANGLE QUOTATION MARK (RIGHT POINTING SINGLE GUILLEM
 |   #   |
 |  #    |
 +       +
+|       |
 |       |
 U+203B REFERENCE MARK
 |       |
@@ -3152,6 +3189,7 @@ U+203C DOUBLE EXCLAMATION MARK
 |       |
 +  # #  +
 |       |
+|       |
 U+203D INTERROBANG
 |       |
 |       |
@@ -3164,6 +3202,7 @@ U+203D INTERROBANG
 |       |
 |       |
 +   #   +
+|       |
 |       |
 U+203E OVERLINE (SPACING OVERSCORE)
 |       |
@@ -3178,6 +3217,7 @@ U+203E OVERLINE (SPACING OVERSCORE)
 |       |
 +       +
 |       |
+|       |
 U+203F UNDERTIE
 |       |
 |       |
@@ -3191,6 +3231,7 @@ U+203F UNDERTIE
 |       |
 + #   # +
 |  ###  |
+|       |
 U+2040 CHARACTER TIE
 |       |
 |  ###  |
@@ -3203,6 +3244,7 @@ U+2040 CHARACTER TIE
 |       |
 |       |
 +       +
+|       |
 |       |
 U+2041 CARET INSERTION POINT
 |       |
@@ -3217,6 +3259,7 @@ U+2041 CARET INSERTION POINT
 |    #  |
 +   #   +
 |  # #  |
+|       |
 U+2042 ASTERISM
 |   #   |
 |  ###  |
@@ -3244,6 +3287,7 @@ U+2043 HYPHEN BULLET
 |       |
 +       +
 |       |
+|       |
 U+2044 FRACTION SLASH
 |       |
 |       |
@@ -3256,6 +3300,7 @@ U+2044 FRACTION SLASH
 | #     |
 |       |
 +       +
+|       |
 |       |
 U+2045 LEFT SQUARE BRACKET WITH QUILL
 |       |
@@ -3270,6 +3315,7 @@ U+2045 LEFT SQUARE BRACKET WITH QUILL
 | ##    |
 + ##    +
 | ##### |
+|       |
 U+2046 RIGHT SQUARE BRACKET WITH QUILL
 |       |
 | ##### |
@@ -3283,6 +3329,7 @@ U+2046 RIGHT SQUARE BRACKET WITH QUILL
 |    ## |
 +    ## +
 | ##### |
+|       |
 U+2047 DOUBLE QUESTION MARK
 |       |
 |       |
@@ -3295,6 +3342,7 @@ U+2047 DOUBLE QUESTION MARK
 |       |
 |       |
 + #  #  +
+|       |
 |       |
 U+2048 QUESTION EXCLAMATION MARK
 |       |
@@ -3309,6 +3357,7 @@ U+2048 QUESTION EXCLAMATION MARK
 |       |
 +  #  # +
 |       |
+|       |
 U+2049 EXCLAMATION QUESTION MARK
 |       |
 |       |
@@ -3321,6 +3370,7 @@ U+2049 EXCLAMATION QUESTION MARK
 |       |
 |       |
 + #  #  +
+|       |
 |       |
 U+204A TIRONIAN SIGN ET
 |       |
@@ -3335,6 +3385,7 @@ U+204A TIRONIAN SIGN ET
 |       |
 +       +
 |       |
+|       |
 U+204B REVERSED PILCROW SIGN
 |       |
 |       |
@@ -3347,6 +3398,7 @@ U+204B REVERSED PILCROW SIGN
 | # #   |
 | # #   |
 + # #   +
+|       |
 |       |
 U+204C BLACK LEFTWARDS BULLET
 |       |
@@ -3361,6 +3413,7 @@ U+204C BLACK LEFTWARDS BULLET
 |       |
 +       +
 |       |
+|       |
 U+204D BLACK RIGHTWARDS BULLET
 |       |
 |       |
@@ -3373,6 +3426,7 @@ U+204D BLACK RIGHTWARDS BULLET
 | ####  |
 |       |
 +       +
+|       |
 |       |
 U+204E LOW ASTERISK
 |       |
@@ -3387,6 +3441,7 @@ U+204E LOW ASTERISK
 | # # # |
 +   #   +
 |       |
+|       |
 U+204F REVERSED SEMICOLON
 |       |
 |       |
@@ -3400,6 +3455,7 @@ U+204F REVERSED SEMICOLON
 |       |
 +   #   +
 |   #   |
+|       |
 U+2050 CLOSE UP
 |       |
 |  ###  |
@@ -3413,6 +3469,7 @@ U+2050 CLOSE UP
 |       |
 + #   # +
 |  ###  |
+|       |
 U+2051 TWO ASTERISKS ALIGNED VERTICALLY
 |       |
 |   #   |
@@ -3426,6 +3483,7 @@ U+2051 TWO ASTERISKS ALIGNED VERTICALLY
 |  ###  |
 + # # # +
 |   #   |
+|       |
 U+2052 COMMERCIAL MINUS SIGN
 |       |
 |       |
@@ -3439,6 +3497,7 @@ U+2052 COMMERCIAL MINUS SIGN
 |       |
 +       +
 |       |
+|       |
 U+2053 SWUNG DASH
 |       |
 |       |
@@ -3451,6 +3510,7 @@ U+2053 SWUNG DASH
 |       |
 |       |
 +       +
+|       |
 |       |
 U+2054 INVERTED UNDERTIE
 |       |
@@ -3479,6 +3539,7 @@ U+2055 FLOWER PUNCTUATION MARK
 |   #   |
 +       +
 |       |
+|       |
 U+2056 THREE DOT PUNCTUATION
 |       |
 |       |
@@ -3505,6 +3566,7 @@ U+2057 QUADRUPLE PRIME
 |       |
 |       |
 +       +
+|       |
 |       |
 U+2058 FOUR DOT PUNCTUATION
 |       |
@@ -3546,6 +3608,7 @@ U+205A TWO DOT PUNCTUATION
 |       |
 |   #   |
 +       +
+|       |
 |       |
 U+205B FOUR DOT MARK
 |       |
@@ -6644,8 +6707,6 @@ U+2204 THERE DOES NOT EXIST
 |    ## |
 |   # # |
 |  #### |
-|   # # |
-|  #  # |
 U+2205 EMPTY SET
 |       |
 |       |
