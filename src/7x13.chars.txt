@@ -1274,17 +1274,17 @@ U+007A LATIN SMALL LETTER Z
 |       |
 U+007B LEFT CURLY BRACKET (OPENING CURLY BRACKET)
 |       |
-|    ## |
-^   #   ^
+|   ### |
+^  ##   ^
 |  ##   |
 |  ##   |
-|  #    |
-| #     |
-|  #    |
+|  ##   |
+| ##    |
 |  ##   |
 |  ##   |
-+   #   +
-|    ## |
+|  ##   |
++  ##   +
+|   ### |
 |       |
 U+007C VERTICAL LINE (VERTICAL BAR)
 |   #   |
@@ -1302,17 +1302,17 @@ U+007C VERTICAL LINE (VERTICAL BAR)
 |   #   |
 U+007D RIGHT CURLY BRACKET (CLOSING CURLY BRACKET)
 |       |
-| ##    |
-^   #   ^
+| ###   |
+^   ##  ^
 |   ##  |
 |   ##  |
-|    #  |
-|     # |
-|    #  |
+|   ##  |
+|    ## |
 |   ##  |
 |   ##  |
-+   #   +
-| ##    |
+|   ##  |
++   ##  +
+| ###   |
 |       |
 U+007E TILDE
 |       |
