@@ -112,31 +112,31 @@ U+0027 APOSTROPHE (APOSTROPHE-QUOTE)
 |       |
 U+0028 LEFT PARENTHESIS (OPENING PARENTHESIS)
 |       |
-|    #  |
-^   #   ^
+|       |
+^    #  ^
+|   #   |
 |  #    |
 |  #    |
 |  #    |
 |  #    |
 |  #    |
-|  #    |
-|  #    |
-+   #   +
-|    #  |
+|   #   |
++    #  +
+|       |
 |       |
 U+0029 RIGHT PARENTHESIS (CLOSING PARENTHESIS)
 |       |
-|  #    |
-^   #   ^
+|       |
+^  #    ^
+|   #   |
 |    #  |
 |    #  |
 |    #  |
 |    #  |
 |    #  |
-|    #  |
-|    #  |
-+   #   +
-|  #    |
+|   #   |
++  #    +
+|       |
 |       |
 U+002A ASTERISK
 |       |
@@ -826,8 +826,8 @@ U+005A LATIN CAPITAL LETTER Z
 |       |
 U+005B LEFT SQUARE BRACKET (OPENING SQUARE BRACKET)
 |       |
-| ##### |
-^ ##    ^
+|       |
+^ ##### ^
 | ##    |
 | ##    |
 | ##    |
@@ -835,8 +835,8 @@ U+005B LEFT SQUARE BRACKET (OPENING SQUARE BRACKET)
 | ##    |
 | ##    |
 | ##    |
-+ ##    +
-| ##### |
++ ##### +
+|       |
 |       |
 U+005C REVERSE SOLIDUS (BACKSLASH)
 |       |
@@ -854,8 +854,8 @@ U+005C REVERSE SOLIDUS (BACKSLASH)
 |       |
 U+005D RIGHT SQUARE BRACKET (CLOSING SQUARE BRACKET)
 |       |
-| ##### |
-^    ## ^
+|       |
+^ ##### ^
 |    ## |
 |    ## |
 |    ## |
@@ -863,8 +863,8 @@ U+005D RIGHT SQUARE BRACKET (CLOSING SQUARE BRACKET)
 |    ## |
 |    ## |
 |    ## |
-+    ## +
-| ##### |
++ ##### +
+|       |
 |       |
 U+005E CIRCUMFLEX ACCENT (SPACING CIRCUMFLEX)
 |       |
@@ -1274,8 +1274,8 @@ U+007A LATIN SMALL LETTER Z
 |       |
 U+007B LEFT CURLY BRACKET (OPENING CURLY BRACKET)
 |       |
-|   ### |
-^  ##   ^
+|       |
+^   ### ^
 |  ##   |
 |  ##   |
 |  ##   |
@@ -1283,11 +1283,11 @@ U+007B LEFT CURLY BRACKET (OPENING CURLY BRACKET)
 |  ##   |
 |  ##   |
 |  ##   |
-+  ##   +
-|   ### |
++   ### +
+|       |
 |       |
 U+007C VERTICAL LINE (VERTICAL BAR)
-|   #   |
+|       |
 |   #   |
 ^   #   ^
 |   #   |
@@ -1299,11 +1299,11 @@ U+007C VERTICAL LINE (VERTICAL BAR)
 |   #   |
 +   #   +
 |   #   |
-|   #   |
+|       |
 U+007D RIGHT CURLY BRACKET (CLOSING CURLY BRACKET)
 |       |
-| ###   |
-^   ##  ^
+|       |
+^ ###   ^
 |   ##  |
 |   ##  |
 |   ##  |
@@ -1311,8 +1311,8 @@ U+007D RIGHT CURLY BRACKET (CLOSING CURLY BRACKET)
 |   ##  |
 |   ##  |
 |   ##  |
-+   ##  +
-| ###   |
++ ###   +
+|       |
 |       |
 U+007E TILDE
 |       |
@@ -1373,15 +1373,15 @@ U+00A2 CENT SIGN
 U+00A3 POUND SIGN
 |       |
 |       |
-^  ###  ^
-| #     |
-| #     |
-| #     |
-|###    |
-| #     |
-| #     |
-| #     |
-+# #### +
+^   ##  ^
+|  #    |
+|  #    |
+|  #    |
+| ###   |
+|  #    |
+|  #    |
+|  #    |
++ # ### +
 |       |
 |       |
 U+00A4 CURRENCY SIGN
@@ -1428,17 +1428,17 @@ U+00A6 BROKEN BAR (BROKEN VERTICAL BAR)
 |       |
 U+00A7 SECTION SIGN
 |       |
-|  #### |
-^ #     ^
+|  ###  |
+^ #   # ^
 | #     |
-|  ###  |
+|  ##   |
+| #  #  |
 | #   # |
-| #   # |
-| #   # |
-|  ###  |
+|  #  # |
+|   ##  |
 |     # |
-+     # +
-| ####  |
++ #   # +
+|  ###  |
 |       |
 U+00A8 DIAERESIS (SPACING DIAERESIS)
 |       |
@@ -1457,15 +1457,15 @@ U+00A8 DIAERESIS (SPACING DIAERESIS)
 U+00A9 COPYRIGHT SIGN
 |       |
 |       |
-^ ####  ^
-|#    # |
-|# ## # |
-|##  ## |
-|##   # |
-|##  ## |
-|# ## # |
-|#    # |
-+ ####  +
+^  ###  ^
+| #   # |
+| # # # |
+| ## ## |
+| ##  # |
+| ## ## |
+| # # # |
+| #   # |
++  ###  +
 |       |
 |       |
 U+00AA FEMININE ORDINAL INDICATOR
@@ -1527,15 +1527,15 @@ U+00AD SOFT HYPHEN
 U+00AE REGISTERED SIGN (REGISTERED TRADE MARK SIGN)
 |       |
 |       |
-^ ####  ^
-|#    # |
-|#### # |
-|##  ## |
-|#### # |
-|## # # |
-|##  ## |
-|#    # |
-+ ####  +
+^  ###  ^
+| #   # |
+| ### # |
+| ## ## |
+| ### # |
+| ## ## |
+| ## ## |
+| #   # |
++  ###  +
 |       |
 |       |
 U+00AF MACRON (SPACING MACRON)
@@ -1640,9 +1640,9 @@ U+00B6 PILCROW SIGN (PARAGRAPH SIGN)
 |       |
 |       |
 ^  #### ^
-| # # # |
-| # # # |
-| # # # |
+| ### # |
+| ### # |
+| ### # |
 |  #### |
 |   # # |
 |   # # |
@@ -3165,13 +3165,13 @@ U+2027 HYPHENATION POINT
 U+2030 PER MILLE SIGN
 |       |
 |       |
-^##     ^
-|##     |
+^ ##    ^
+| ##  # |
 |    #  |
 |   #   |
 |  #    |
 | #     |
-|#      |
+|       |
 | ## ## |
 + ## ## +
 |       |
@@ -3179,13 +3179,13 @@ U+2030 PER MILLE SIGN
 U+2031 PER TEN THOUSAND SIGN
 |       |
 |       |
-^##     ^
-|##     |
+^ ##    ^
+| ##  # |
 |    #  |
 |   #   |
 |  #    |
 | #     |
-|#      |
+|       |
 | # # # |
 + # # # +
 |       |
@@ -3458,8 +3458,8 @@ U+2044 FRACTION SLASH
 |       |
 U+2045 LEFT SQUARE BRACKET WITH QUILL
 |       |
-| ##### |
-^ ##    ^
+|       |
+^ ##### ^
 | ##    |
 | ##    |
 | ##    |
@@ -3467,13 +3467,13 @@ U+2045 LEFT SQUARE BRACKET WITH QUILL
 | ##    |
 | ##    |
 | ##    |
-+ ##    +
-| ##### |
++ ##### +
+|       |
 |       |
 U+2046 RIGHT SQUARE BRACKET WITH QUILL
 |       |
-| ##### |
-^    ## ^
+|       |
+^ ##### ^
 |    ## |
 |    ## |
 |    ## |
@@ -3481,21 +3481,21 @@ U+2046 RIGHT SQUARE BRACKET WITH QUILL
 |    ## |
 |    ## |
 |    ## |
-+    ## +
-| ##### |
++ ##### +
+|       |
 |       |
 U+2047 DOUBLE QUESTION MARK
 |       |
 |       |
-^ #  #  ^
-|# ## # |
-|  #  # |
-| #  #  |
-| #  #  |
-| #  #  |
+^  # #  ^
+| # # # |
+|   # # |
+|  # #  |
+|  # #  |
+|  # #  |
 |       |
 |       |
-+ #  #  +
++  # #  +
 |       |
 |       |
 U+2048 QUESTION EXCLAMATION MARK
@@ -3544,9 +3544,9 @@ U+204B REVERSED PILCROW SIGN
 |       |
 |       |
 ^ ####  ^
-| # # # |
-| # # # |
-| # # # |
+| # ### |
+| # ### |
+| # ### |
 | ####  |
 | # #   |
 | # #   |
@@ -3659,8 +3659,8 @@ U+2053 SWUNG DASH
 |       |
 |       |
 |       |
-| ##  # |
-|#  ##  |
+| ###  #|
+|#  ### |
 |       |
 |       |
 +       +
@@ -3989,13 +3989,13 @@ U+207C      ⁼       SUPERSCRIPT EQUALS SIGN
 |       |
 |       |
 U+207D      ⁽       SUPERSCRIPT LEFT PARENTHESIS (SUPERSCRIPT OPENING PARENTHESIS)
+|    #  |
 |   #   |
+^  #    ^
 |  #    |
-^ #     ^
-| #     |
-| #     |
 |  #    |
 |   #   |
+|    #  |
 |       |
 |       |
 |       |
@@ -4003,13 +4003,13 @@ U+207D      ⁽       SUPERSCRIPT LEFT PARENTHESIS (SUPERSCRIPT OPENING PARENTHE
 |       |
 |       |
 U+207E      ⁾       SUPERSCRIPT RIGHT PARENTHESIS (SUPERSCRIPT CLOSING PARENTHESIS)
+|  #    |
 |   #   |
+^    #  ^
 |    #  |
-^     # ^
-|     # |
-|     # |
 |    #  |
 |   #   |
+|  #    |
 |       |
 |       |
 |       |
@@ -4018,11 +4018,11 @@ U+207E      ⁾       SUPERSCRIPT RIGHT PARENTHESIS (SUPERSCRIPT CLOSING PARENTH
 |       |
 U+207F      ⁿ       SUPERSCRIPT LATIN SMALL LETTER N
 |       |
-|  ##   |
-^  # #  ^
-|  # #  |
-|  # #  |
 |       |
+^  ##   ^
+|  # #  |
+|  # #  |
+|  # #  |
 |       |
 |       |
 |       |
@@ -4453,15 +4453,15 @@ U+2116 NUMERO SIGN
 U+2117 SOUND RECORDING COPYRIGHT
 |       |
 |       |
-^ ####  ^
-|#    # |
-|#### # |
-|##  ## |
-|#### # |
-|##   # |
-|##   # |
-|#    # |
-+ ####  +
+^  ###  ^
+| #   # |
+| ### # |
+| ## ## |
+| ### # |
+| ##  # |
+| ##  # |
+| #   # |
++  ###  +
 |       |
 |       |
 U+2120 SERVICE MARK
@@ -4567,11 +4567,11 @@ U+2194 LEFT RIGHT ARROW
 |       |
 ^       ^
 |       |
-|       |
-| #  #  |
-|###### |
-| #  #  |
-|       |
+|  # #  |
+| #   # |
+|#######|
+| #   # |
+|  # #  |
 |       |
 +       +
 |       |
@@ -4636,13 +4636,13 @@ U+2205 EMPTY SET
 |       |
 |       |
 ^       ^
+|      #|
 |  ## # |
 | #  #  |
-|#  # # |
-|# ## # |
-|# #  # |
-| #  #  |
-|# ##   |
+| # # # |
+|  #  # |
+| # ##  |
+|#      |
 +       +
 |       |
 |       |
@@ -4697,8 +4697,8 @@ U+221A SQUARE ROOT
 |    #  |
 |   #   |
 |   #   |
-|   #   |
-|###    |
+| # #   |
+| ##    |
 +  #    +
 |       |
 |       |
